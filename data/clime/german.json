@@ -1,0 +1,1226 @@
+{
+    "nodes": [
+        {
+            "id": "Virginal",
+            "group": 0,
+            "size": 150.6849315068493
+        },
+        {
+            "id": "Eckenlied",
+            "group": 0,
+            "size": 136.986301369863
+        },
+        {
+            "id": "Ortnit",
+            "group": 0,
+            "size": 260.2739726027397
+        },
+        {
+            "id": "Wolfdietrich",
+            "group": 0,
+            "size": 246.5753424657534
+        },
+        {
+            "id": "Der Wunderer",
+            "group": 0,
+            "size": 123.2876712328767
+        },
+        {
+            "id": "Laurin",
+            "group": 0,
+            "size": 150.6849315068493
+        },
+        {
+            "id": "J\u00fcngeres Hildebrandslied",
+            "group": 0,
+            "size": 123.2876712328767
+        },
+        {
+            "id": "Rosengarten zu Worms",
+            "group": 0,
+            "size": 164.3835616438356
+        },
+        {
+            "id": "Herzog Ernst G",
+            "group": 0,
+            "size": 123.2876712328767
+        },
+        {
+            "id": "Sigenot",
+            "group": 0,
+            "size": 136.986301369863
+        },
+        {
+            "id": "Albrecht von Kemenaten: Goldemar",
+            "group": 0,
+            "size": 13.698630136986301
+        },
+        {
+            "id": "Ulrich von Etzenbach: Wilhelm von Wenden",
+            "group": 0,
+            "size": 27.397260273972602
+        },
+        {
+            "id": "Daniel (Stricker)",
+            "group": 0,
+            "size": 13.698630136986301
+        },
+        {
+            "id": "Berthold von Holle: Crane",
+            "group": 0,
+            "size": 13.698630136986301
+        },
+        {
+            "id": "Hartmann von Aue: Der arme Heinrich",
+            "group": 1,
+            "size": 27.397260273972602
+        },
+        {
+            "id": "Rudolf von Ems: Barlaam und Josaphat",
+            "group": 1,
+            "size": 13.698630136986301
+        },
+        {
+            "id": "Die gute Frau",
+            "group": 1,
+            "size": 13.698630136986301
+        },
+        {
+            "id": "Sibille",
+            "group": 2,
+            "size": 13.698630136986301
+        },
+        {
+            "id": "Huge Scheppel",
+            "group": 2,
+            "size": 13.698630136986301
+        },
+        {
+            "id": "Nibelungenlied",
+            "group": 3,
+            "size": 205.4794520547945
+        },
+        {
+            "id": "Dietrichs Flucht",
+            "group": 3,
+            "size": 150.6849315068493
+        },
+        {
+            "id": "Rabenschlacht",
+            "group": 3,
+            "size": 150.6849315068493
+        },
+        {
+            "id": "Iwein (Hartmann von Aue)",
+            "group": 3,
+            "size": 205.4794520547945
+        },
+        {
+            "id": "Diu Cr\u00f4ne (Heinrich von dem T\u00fcrlin)",
+            "group": 3,
+            "size": 54.794520547945204
+        },
+        {
+            "id": "Kudrun",
+            "group": 3,
+            "size": 136.986301369863
+        },
+        {
+            "id": "Titurel (Wolfram von Eschenbach)",
+            "group": 3,
+            "size": 150.6849315068493
+        },
+        {
+            "id": "Erec (Hartmann von Aue)",
+            "group": 3,
+            "size": 150.6849315068493
+        },
+        {
+            "id": "Der Mantel",
+            "group": 3,
+            "size": 136.986301369863
+        },
+        {
+            "id": "Biterolf und Dietleib (Biterolf)",
+            "group": 3,
+            "size": 136.986301369863
+        },
+        {
+            "id": "Alpharts Tod",
+            "group": 3,
+            "size": 27.397260273972602
+        },
+        {
+            "id": "Johann von W\u00fcrzburg: Wilhelm von \u00d6sterreich",
+            "group": 3,
+            "size": 27.397260273972602
+        },
+        {
+            "id": "Mitteldr. Erec",
+            "group": 3,
+            "size": 13.698630136986301
+        },
+        {
+            "id": "Elisabeth von Nassau-Saarbr\u00fccken: Huge Scheppel",
+            "group": 4,
+            "size": 13.698630136986301
+        },
+        {
+            "id": "Elisabeth von Nassau-Saarbr\u00fccken: Sibille",
+            "group": 4,
+            "size": 13.698630136986301
+        },
+        {
+            "id": "Malagis",
+            "group": 5,
+            "size": 13.698630136986301
+        },
+        {
+            "id": "Reinolt von Montelban",
+            "group": 5,
+            "size": 13.698630136986301
+        },
+        {
+            "id": "Parzival (Wolfram von Eschenbach)",
+            "group": 6,
+            "size": 95.8904109589041
+        },
+        {
+            "id": "Segremors",
+            "group": 6,
+            "size": 13.698630136986301
+        },
+        {
+            "id": "Wigalois (Wirnt von Grafenberg)",
+            "group": 6,
+            "size": 54.794520547945204
+        },
+        {
+            "id": "Lohengrin",
+            "group": 6,
+            "size": 27.397260273972602
+        },
+        {
+            "id": "Rappoltsteiner Parzifal",
+            "group": 6,
+            "size": 13.698630136986301
+        },
+        {
+            "id": "Els\u00e4ssisches Trojabuch",
+            "group": 6,
+            "size": 27.397260273972602
+        },
+        {
+            "id": "Seifrit: Alexander",
+            "group": 6,
+            "size": 54.794520547945204
+        },
+        {
+            "id": "Otte: Eraclius",
+            "group": 6,
+            "size": 41.0958904109589
+        },
+        {
+            "id": "Hartmann von Aue: Gregorius",
+            "group": 6,
+            "size": 27.397260273972602
+        },
+        {
+            "id": "Eneas (Veldeke)",
+            "group": 6,
+            "size": 41.0958904109589
+        },
+        {
+            "id": "Mai und Beaflor",
+            "group": 6,
+            "size": 27.397260273972602
+        },
+        {
+            "id": "Friedrich von Schwaben",
+            "group": 6,
+            "size": 13.698630136986301
+        },
+        {
+            "id": "Herbort von Fritzlar: Liet von Troye",
+            "group": 6,
+            "size": 13.698630136986301
+        },
+        {
+            "id": "Tristan (Gottfried von Strassburg)",
+            "group": 7,
+            "size": 95.8904109589041
+        },
+        {
+            "id": "Tristan (Ulrich von T\u00fcrheim)",
+            "group": 7,
+            "size": 41.0958904109589
+        },
+        {
+            "id": "Tristrant (Eilhart von Oberge)",
+            "group": 7,
+            "size": 41.0958904109589
+        },
+        {
+            "id": "Tristan als M\u00f6nch",
+            "group": 7,
+            "size": 27.397260273972602
+        },
+        {
+            "id": "Heinrich von Freiberg: Tristan",
+            "group": 7,
+            "size": 41.0958904109589
+        },
+        {
+            "id": "Tristan (Heinrich von Freiberg)",
+            "group": 7,
+            "size": 41.0958904109589
+        },
+        {
+            "id": "Ulrich von Etzenbach: Alexander-Anhang",
+            "group": 8,
+            "size": 13.698630136986301
+        },
+        {
+            "id": "Ulrich von Etzenbach: Alexander",
+            "group": 8,
+            "size": 13.698630136986301
+        },
+        {
+            "id": "Prosa-Lancelot",
+            "group": 9,
+            "size": 27.397260273972602
+        },
+        {
+            "id": "Lanzelot (Prosaroman) (Ulrich Fuetrer)",
+            "group": 9,
+            "size": 13.698630136986301
+        },
+        {
+            "id": "Tandareis und Flordibel (Der Pleier)",
+            "group": 9,
+            "size": 13.698630136986301
+        },
+        {
+            "id": "Wolfram von Eschenbach: Willehalm",
+            "group": 10,
+            "size": 41.0958904109589
+        },
+        {
+            "id": "Ulrich von dem T\u00fcrlin: Arabel",
+            "group": 10,
+            "size": 27.397260273972602
+        },
+        {
+            "id": "Ulrich von T\u00fcrheim: Rennewart",
+            "group": 10,
+            "size": 27.397260273972602
+        },
+        {
+            "id": "Stricker: Karl der Gro\u00dfe",
+            "group": 10,
+            "size": 27.397260273972602
+        },
+        {
+            "id": "Pfaffe Lambrecht: Alexanderlied",
+            "group": 11,
+            "size": 13.698630136986301
+        },
+        {
+            "id": "Basler Trojanerkrieg",
+            "group": 11,
+            "size": 13.698630136986301
+        },
+        {
+            "id": "Rudolf von Ems: Willehalm von Orlens",
+            "group": 12,
+            "size": 95.8904109589041
+        },
+        {
+            "id": "Trojanerkrieg-Fortsetzung",
+            "group": 12,
+            "size": 41.0958904109589
+        },
+        {
+            "id": "Konrad von W\u00fcrzburg: Trojanerkrieg",
+            "group": 12,
+            "size": 54.794520547945204
+        },
+        {
+            "id": "Herzog Ernst B",
+            "group": 12,
+            "size": 41.0958904109589
+        },
+        {
+            "id": "Meister Wichwolt [fr\u00fcher: Babiloth]: Cronica Allexandri des grossen konigs",
+            "group": 12,
+            "size": 41.0958904109589
+        },
+        {
+            "id": "Mair, Hans, von N\u00f6rdlingen: Buch von Troja",
+            "group": 12,
+            "size": 13.698630136986301
+        },
+        {
+            "id": "Gauriel von Muntabel (Konrad von Stoffeln)",
+            "group": 12,
+            "size": 13.698630136986301
+        },
+        {
+            "id": "Elisabeth von Nassau-Saarbr\u00fccken: Loher und Maller",
+            "group": 12,
+            "size": 13.698630136986301
+        }
+    ],
+    "links": [
+        {
+            "source": "Virginal",
+            "target": "Eckenlied",
+            "value": 2
+        },
+        {
+            "source": "Virginal",
+            "target": "Ortnit",
+            "value": 3
+        },
+        {
+            "source": "Virginal",
+            "target": "Wolfdietrich",
+            "value": 3
+        },
+        {
+            "source": "Virginal",
+            "target": "Der Wunderer",
+            "value": 1
+        },
+        {
+            "source": "Virginal",
+            "target": "Laurin",
+            "value": 1
+        },
+        {
+            "source": "Virginal",
+            "target": "J\u00fcngeres Hildebrandslied",
+            "value": 1
+        },
+        {
+            "source": "Virginal",
+            "target": "Rosengarten zu Worms",
+            "value": 2
+        },
+        {
+            "source": "Virginal",
+            "target": "Herzog Ernst G",
+            "value": 1
+        },
+        {
+            "source": "Virginal",
+            "target": "Sigenot",
+            "value": 1
+        },
+        {
+            "source": "Virginal",
+            "target": "Albrecht von Kemenaten: Goldemar",
+            "value": 1
+        },
+        {
+            "source": "Virginal",
+            "target": "Nibelungenlied",
+            "value": 1
+        },
+        {
+            "source": "Eckenlied",
+            "target": "Ortnit",
+            "value": 2
+        },
+        {
+            "source": "Eckenlied",
+            "target": "Wolfdietrich",
+            "value": 2
+        },
+        {
+            "source": "Eckenlied",
+            "target": "Der Wunderer",
+            "value": 1
+        },
+        {
+            "source": "Eckenlied",
+            "target": "Laurin",
+            "value": 1
+        },
+        {
+            "source": "Eckenlied",
+            "target": "J\u00fcngeres Hildebrandslied",
+            "value": 1
+        },
+        {
+            "source": "Eckenlied",
+            "target": "Rosengarten zu Worms",
+            "value": 1
+        },
+        {
+            "source": "Eckenlied",
+            "target": "Herzog Ernst G",
+            "value": 1
+        },
+        {
+            "source": "Eckenlied",
+            "target": "Sigenot",
+            "value": 2
+        },
+        {
+            "source": "Eckenlied",
+            "target": "Rudolf von Ems: Willehalm von Orlens",
+            "value": 1
+        },
+        {
+            "source": "Ortnit",
+            "target": "Wolfdietrich",
+            "value": 11
+        },
+        {
+            "source": "Ortnit",
+            "target": "Der Wunderer",
+            "value": 1
+        },
+        {
+            "source": "Ortnit",
+            "target": "Laurin",
+            "value": 2
+        },
+        {
+            "source": "Ortnit",
+            "target": "J\u00fcngeres Hildebrandslied",
+            "value": 1
+        },
+        {
+            "source": "Ortnit",
+            "target": "Rosengarten zu Worms",
+            "value": 3
+        },
+        {
+            "source": "Ortnit",
+            "target": "Herzog Ernst G",
+            "value": 1
+        },
+        {
+            "source": "Ortnit",
+            "target": "Sigenot",
+            "value": 2
+        },
+        {
+            "source": "Ortnit",
+            "target": "Nibelungenlied",
+            "value": 2
+        },
+        {
+            "source": "Ortnit",
+            "target": "Dietrichs Flucht",
+            "value": 2
+        },
+        {
+            "source": "Ortnit",
+            "target": "Rabenschlacht",
+            "value": 2
+        },
+        {
+            "source": "Ortnit",
+            "target": "Iwein (Hartmann von Aue)",
+            "value": 2
+        },
+        {
+            "source": "Ortnit",
+            "target": "Diu Cr\u00f4ne (Heinrich von dem T\u00fcrlin)",
+            "value": 1
+        },
+        {
+            "source": "Ortnit",
+            "target": "Kudrun",
+            "value": 1
+        },
+        {
+            "source": "Ortnit",
+            "target": "Titurel (Wolfram von Eschenbach)",
+            "value": 1
+        },
+        {
+            "source": "Ortnit",
+            "target": "Erec (Hartmann von Aue)",
+            "value": 1
+        },
+        {
+            "source": "Ortnit",
+            "target": "Der Mantel",
+            "value": 1
+        },
+        {
+            "source": "Ortnit",
+            "target": "Biterolf und Dietleib (Biterolf)",
+            "value": 1
+        },
+        {
+            "source": "Wolfdietrich",
+            "target": "Der Wunderer",
+            "value": 1
+        },
+        {
+            "source": "Wolfdietrich",
+            "target": "Laurin",
+            "value": 2
+        },
+        {
+            "source": "Wolfdietrich",
+            "target": "J\u00fcngeres Hildebrandslied",
+            "value": 2
+        },
+        {
+            "source": "Wolfdietrich",
+            "target": "Rosengarten zu Worms",
+            "value": 3
+        },
+        {
+            "source": "Wolfdietrich",
+            "target": "Herzog Ernst G",
+            "value": 1
+        },
+        {
+            "source": "Wolfdietrich",
+            "target": "Sigenot",
+            "value": 2
+        },
+        {
+            "source": "Wolfdietrich",
+            "target": "Nibelungenlied",
+            "value": 2
+        },
+        {
+            "source": "Wolfdietrich",
+            "target": "Kudrun",
+            "value": 1
+        },
+        {
+            "source": "Wolfdietrich",
+            "target": "Dietrichs Flucht",
+            "value": 1
+        },
+        {
+            "source": "Wolfdietrich",
+            "target": "Titurel (Wolfram von Eschenbach)",
+            "value": 1
+        },
+        {
+            "source": "Wolfdietrich",
+            "target": "Erec (Hartmann von Aue)",
+            "value": 1
+        },
+        {
+            "source": "Wolfdietrich",
+            "target": "Iwein (Hartmann von Aue)",
+            "value": 1
+        },
+        {
+            "source": "Wolfdietrich",
+            "target": "Rabenschlacht",
+            "value": 1
+        },
+        {
+            "source": "Wolfdietrich",
+            "target": "Der Mantel",
+            "value": 1
+        },
+        {
+            "source": "Wolfdietrich",
+            "target": "Biterolf und Dietleib (Biterolf)",
+            "value": 1
+        },
+        {
+            "source": "Der Wunderer",
+            "target": "J\u00fcngeres Hildebrandslied",
+            "value": 1
+        },
+        {
+            "source": "Der Wunderer",
+            "target": "Sigenot",
+            "value": 1
+        },
+        {
+            "source": "Der Wunderer",
+            "target": "Laurin",
+            "value": 2
+        },
+        {
+            "source": "Der Wunderer",
+            "target": "Rosengarten zu Worms",
+            "value": 1
+        },
+        {
+            "source": "Der Wunderer",
+            "target": "Herzog Ernst G",
+            "value": 1
+        },
+        {
+            "source": "Laurin",
+            "target": "Nibelungenlied",
+            "value": 1
+        },
+        {
+            "source": "Laurin",
+            "target": "J\u00fcngeres Hildebrandslied",
+            "value": 1
+        },
+        {
+            "source": "Laurin",
+            "target": "Sigenot",
+            "value": 2
+        },
+        {
+            "source": "Laurin",
+            "target": "Rosengarten zu Worms",
+            "value": 6
+        },
+        {
+            "source": "Laurin",
+            "target": "Ulrich von Etzenbach: Wilhelm von Wenden",
+            "value": 2
+        },
+        {
+            "source": "Laurin",
+            "target": "Herzog Ernst G",
+            "value": 1
+        },
+        {
+            "source": "J\u00fcngeres Hildebrandslied",
+            "target": "Sigenot",
+            "value": 2
+        },
+        {
+            "source": "J\u00fcngeres Hildebrandslied",
+            "target": "Rosengarten zu Worms",
+            "value": 1
+        },
+        {
+            "source": "J\u00fcngeres Hildebrandslied",
+            "target": "Herzog Ernst G",
+            "value": 1
+        },
+        {
+            "source": "Rosengarten zu Worms",
+            "target": "Sigenot",
+            "value": 2
+        },
+        {
+            "source": "Rosengarten zu Worms",
+            "target": "Ulrich von Etzenbach: Wilhelm von Wenden",
+            "value": 2
+        },
+        {
+            "source": "Rosengarten zu Worms",
+            "target": "Herzog Ernst G",
+            "value": 1
+        },
+        {
+            "source": "Rosengarten zu Worms",
+            "target": "Daniel (Stricker)",
+            "value": 2
+        },
+        {
+            "source": "Rosengarten zu Worms",
+            "target": "Berthold von Holle: Crane",
+            "value": 1
+        },
+        {
+            "source": "Herzog Ernst G",
+            "target": "Sigenot",
+            "value": 1
+        },
+        {
+            "source": "Sigenot",
+            "target": "Rudolf von Ems: Willehalm von Orlens",
+            "value": 1
+        },
+        {
+            "source": "Nibelungenlied",
+            "target": "Parzival (Wolfram von Eschenbach)",
+            "value": 1
+        },
+        {
+            "source": "Nibelungenlied",
+            "target": "Rabenschlacht",
+            "value": 1
+        },
+        {
+            "source": "Nibelungenlied",
+            "target": "Iwein (Hartmann von Aue)",
+            "value": 1
+        },
+        {
+            "source": "Nibelungenlied",
+            "target": "Dietrichs Flucht",
+            "value": 1
+        },
+        {
+            "source": "Nibelungenlied",
+            "target": "Alpharts Tod",
+            "value": 1
+        },
+        {
+            "source": "Nibelungenlied",
+            "target": "Johann von W\u00fcrzburg: Wilhelm von \u00d6sterreich",
+            "value": 1
+        },
+        {
+            "source": "Nibelungenlied",
+            "target": "Kudrun",
+            "value": 1
+        },
+        {
+            "source": "Nibelungenlied",
+            "target": "Titurel (Wolfram von Eschenbach)",
+            "value": 1
+        },
+        {
+            "source": "Nibelungenlied",
+            "target": "Erec (Hartmann von Aue)",
+            "value": 1
+        },
+        {
+            "source": "Nibelungenlied",
+            "target": "Der Mantel",
+            "value": 1
+        },
+        {
+            "source": "Nibelungenlied",
+            "target": "Biterolf und Dietleib (Biterolf)",
+            "value": 1
+        },
+        {
+            "source": "Rudolf von Ems: Willehalm von Orlens",
+            "target": "Trojanerkrieg-Fortsetzung",
+            "value": 1
+        },
+        {
+            "source": "Rudolf von Ems: Willehalm von Orlens",
+            "target": "Konrad von W\u00fcrzburg: Trojanerkrieg",
+            "value": 1
+        },
+        {
+            "source": "Rudolf von Ems: Willehalm von Orlens",
+            "target": "Gauriel von Muntabel (Konrad von Stoffeln)",
+            "value": 1
+        },
+        {
+            "source": "Rudolf von Ems: Willehalm von Orlens",
+            "target": "Elisabeth von Nassau-Saarbr\u00fccken: Loher und Maller",
+            "value": 1
+        },
+        {
+            "source": "Rudolf von Ems: Willehalm von Orlens",
+            "target": "Herzog Ernst B",
+            "value": 1
+        },
+        {
+            "source": "Dietrichs Flucht",
+            "target": "Rabenschlacht",
+            "value": 4
+        },
+        {
+            "source": "Dietrichs Flucht",
+            "target": "Iwein (Hartmann von Aue)",
+            "value": 3
+        },
+        {
+            "source": "Dietrichs Flucht",
+            "target": "Diu Cr\u00f4ne (Heinrich von dem T\u00fcrlin)",
+            "value": 1
+        },
+        {
+            "source": "Dietrichs Flucht",
+            "target": "Kudrun",
+            "value": 1
+        },
+        {
+            "source": "Dietrichs Flucht",
+            "target": "Titurel (Wolfram von Eschenbach)",
+            "value": 1
+        },
+        {
+            "source": "Dietrichs Flucht",
+            "target": "Erec (Hartmann von Aue)",
+            "value": 1
+        },
+        {
+            "source": "Dietrichs Flucht",
+            "target": "Der Mantel",
+            "value": 1
+        },
+        {
+            "source": "Dietrichs Flucht",
+            "target": "Biterolf und Dietleib (Biterolf)",
+            "value": 1
+        },
+        {
+            "source": "Rabenschlacht",
+            "target": "Iwein (Hartmann von Aue)",
+            "value": 3
+        },
+        {
+            "source": "Rabenschlacht",
+            "target": "Diu Cr\u00f4ne (Heinrich von dem T\u00fcrlin)",
+            "value": 1
+        },
+        {
+            "source": "Rabenschlacht",
+            "target": "Kudrun",
+            "value": 1
+        },
+        {
+            "source": "Rabenschlacht",
+            "target": "Titurel (Wolfram von Eschenbach)",
+            "value": 1
+        },
+        {
+            "source": "Rabenschlacht",
+            "target": "Erec (Hartmann von Aue)",
+            "value": 1
+        },
+        {
+            "source": "Rabenschlacht",
+            "target": "Der Mantel",
+            "value": 1
+        },
+        {
+            "source": "Rabenschlacht",
+            "target": "Biterolf und Dietleib (Biterolf)",
+            "value": 1
+        },
+        {
+            "source": "Iwein (Hartmann von Aue)",
+            "target": "Tristan (Gottfried von Strassburg)",
+            "value": 1
+        },
+        {
+            "source": "Iwein (Hartmann von Aue)",
+            "target": "Heinrich von Freiberg: Tristan",
+            "value": 1
+        },
+        {
+            "source": "Iwein (Hartmann von Aue)",
+            "target": "Tristan (Heinrich von Freiberg)",
+            "value": 1
+        },
+        {
+            "source": "Iwein (Hartmann von Aue)",
+            "target": "Wigalois (Wirnt von Grafenberg)",
+            "value": 2
+        },
+        {
+            "source": "Iwein (Hartmann von Aue)",
+            "target": "Diu Cr\u00f4ne (Heinrich von dem T\u00fcrlin)",
+            "value": 1
+        },
+        {
+            "source": "Iwein (Hartmann von Aue)",
+            "target": "Kudrun",
+            "value": 1
+        },
+        {
+            "source": "Iwein (Hartmann von Aue)",
+            "target": "Titurel (Wolfram von Eschenbach)",
+            "value": 1
+        },
+        {
+            "source": "Iwein (Hartmann von Aue)",
+            "target": "Erec (Hartmann von Aue)",
+            "value": 1
+        },
+        {
+            "source": "Iwein (Hartmann von Aue)",
+            "target": "Der Mantel",
+            "value": 1
+        },
+        {
+            "source": "Iwein (Hartmann von Aue)",
+            "target": "Biterolf und Dietleib (Biterolf)",
+            "value": 1
+        },
+        {
+            "source": "Kudrun",
+            "target": "Titurel (Wolfram von Eschenbach)",
+            "value": 1
+        },
+        {
+            "source": "Kudrun",
+            "target": "Erec (Hartmann von Aue)",
+            "value": 1
+        },
+        {
+            "source": "Kudrun",
+            "target": "Der Mantel",
+            "value": 1
+        },
+        {
+            "source": "Kudrun",
+            "target": "Biterolf und Dietleib (Biterolf)",
+            "value": 1
+        },
+        {
+            "source": "Titurel (Wolfram von Eschenbach)",
+            "target": "Parzival (Wolfram von Eschenbach)",
+            "value": 1
+        },
+        {
+            "source": "Titurel (Wolfram von Eschenbach)",
+            "target": "Erec (Hartmann von Aue)",
+            "value": 1
+        },
+        {
+            "source": "Titurel (Wolfram von Eschenbach)",
+            "target": "Der Mantel",
+            "value": 1
+        },
+        {
+            "source": "Titurel (Wolfram von Eschenbach)",
+            "target": "Biterolf und Dietleib (Biterolf)",
+            "value": 1
+        },
+        {
+            "source": "Erec (Hartmann von Aue)",
+            "target": "Der Mantel",
+            "value": 1
+        },
+        {
+            "source": "Erec (Hartmann von Aue)",
+            "target": "Biterolf und Dietleib (Biterolf)",
+            "value": 1
+        },
+        {
+            "source": "Erec (Hartmann von Aue)",
+            "target": "Mitteldr. Erec",
+            "value": 1
+        },
+        {
+            "source": "Der Mantel",
+            "target": "Biterolf und Dietleib (Biterolf)",
+            "value": 1
+        },
+        {
+            "source": "Parzival (Wolfram von Eschenbach)",
+            "target": "Tristan (Gottfried von Strassburg)",
+            "value": 2
+        },
+        {
+            "source": "Parzival (Wolfram von Eschenbach)",
+            "target": "Segremors",
+            "value": 1
+        },
+        {
+            "source": "Parzival (Wolfram von Eschenbach)",
+            "target": "Wigalois (Wirnt von Grafenberg)",
+            "value": 2
+        },
+        {
+            "source": "Parzival (Wolfram von Eschenbach)",
+            "target": "Lohengrin",
+            "value": 1
+        },
+        {
+            "source": "Parzival (Wolfram von Eschenbach)",
+            "target": "Rappoltsteiner Parzifal",
+            "value": 2
+        },
+        {
+            "source": "Tristan (Gottfried von Strassburg)",
+            "target": "Tristan (Ulrich von T\u00fcrheim)",
+            "value": 7
+        },
+        {
+            "source": "Tristan (Gottfried von Strassburg)",
+            "target": "Tristrant (Eilhart von Oberge)",
+            "value": 1
+        },
+        {
+            "source": "Tristan (Gottfried von Strassburg)",
+            "target": "Tristan als M\u00f6nch",
+            "value": 2
+        },
+        {
+            "source": "Tristan (Gottfried von Strassburg)",
+            "target": "Heinrich von Freiberg: Tristan",
+            "value": 5
+        },
+        {
+            "source": "Tristan (Gottfried von Strassburg)",
+            "target": "Tristan (Heinrich von Freiberg)",
+            "value": 5
+        },
+        {
+            "source": "Wigalois (Wirnt von Grafenberg)",
+            "target": "Seifrit: Alexander",
+            "value": 1
+        },
+        {
+            "source": "Wigalois (Wirnt von Grafenberg)",
+            "target": "Hartmann von Aue: Gregorius",
+            "value": 1
+        },
+        {
+            "source": "Lohengrin",
+            "target": "Friedrich von Schwaben",
+            "value": 1
+        },
+        {
+            "source": "Tristan (Ulrich von T\u00fcrheim)",
+            "target": "Tristrant (Eilhart von Oberge)",
+            "value": 1
+        },
+        {
+            "source": "Tristan (Ulrich von T\u00fcrheim)",
+            "target": "Tristan als M\u00f6nch",
+            "value": 2
+        },
+        {
+            "source": "Tristrant (Eilhart von Oberge)",
+            "target": "Stricker: Karl der Gro\u00dfe",
+            "value": 1
+        },
+        {
+            "source": "Heinrich von Freiberg: Tristan",
+            "target": "Tristan (Heinrich von Freiberg)",
+            "value": 5
+        },
+        {
+            "source": "Wolfram von Eschenbach: Willehalm",
+            "target": "Ulrich von dem T\u00fcrlin: Arabel",
+            "value": 13
+        },
+        {
+            "source": "Wolfram von Eschenbach: Willehalm",
+            "target": "Ulrich von T\u00fcrheim: Rennewart",
+            "value": 12
+        },
+        {
+            "source": "Wolfram von Eschenbach: Willehalm",
+            "target": "Stricker: Karl der Gro\u00dfe",
+            "value": 2
+        },
+        {
+            "source": "Ulrich von dem T\u00fcrlin: Arabel",
+            "target": "Ulrich von T\u00fcrheim: Rennewart",
+            "value": 11
+        },
+        {
+            "source": "Pfaffe Lambrecht: Alexanderlied",
+            "target": "Basler Trojanerkrieg",
+            "value": 1
+        },
+        {
+            "source": "Trojanerkrieg-Fortsetzung",
+            "target": "Konrad von W\u00fcrzburg: Trojanerkrieg",
+            "value": 6
+        },
+        {
+            "source": "Trojanerkrieg-Fortsetzung",
+            "target": "Herzog Ernst B",
+            "value": 1
+        },
+        {
+            "source": "Konrad von W\u00fcrzburg: Trojanerkrieg",
+            "target": "Meister Wichwolt [fr\u00fcher: Babiloth]: Cronica Allexandri des grossen konigs",
+            "value": 1
+        },
+        {
+            "source": "Konrad von W\u00fcrzburg: Trojanerkrieg",
+            "target": "Herzog Ernst B",
+            "value": 1
+        },
+        {
+            "source": "Meister Wichwolt [fr\u00fcher: Babiloth]: Cronica Allexandri des grossen konigs",
+            "target": "Mair, Hans, von N\u00f6rdlingen: Buch von Troja",
+            "value": 5
+        },
+        {
+            "source": "Meister Wichwolt [fr\u00fcher: Babiloth]: Cronica Allexandri des grossen konigs",
+            "target": "Els\u00e4ssisches Trojabuch",
+            "value": 1
+        },
+        {
+            "source": "Alpharts Tod",
+            "target": "Johann von W\u00fcrzburg: Wilhelm von \u00d6sterreich",
+            "value": 1
+        },
+        {
+            "source": "Els\u00e4ssisches Trojabuch",
+            "target": "Seifrit: Alexander",
+            "value": 2
+        },
+        {
+            "source": "Hartmann von Aue: Der arme Heinrich",
+            "target": "Rudolf von Ems: Barlaam und Josaphat",
+            "value": 3
+        },
+        {
+            "source": "Hartmann von Aue: Der arme Heinrich",
+            "target": "Die gute Frau",
+            "value": 1
+        },
+        {
+            "source": "Seifrit: Alexander",
+            "target": "Otte: Eraclius",
+            "value": 1
+        },
+        {
+            "source": "Seifrit: Alexander",
+            "target": "Hartmann von Aue: Gregorius",
+            "value": 1
+        },
+        {
+            "source": "Otte: Eraclius",
+            "target": "Eneas (Veldeke)",
+            "value": 1
+        },
+        {
+            "source": "Otte: Eraclius",
+            "target": "Mai und Beaflor",
+            "value": 1
+        },
+        {
+            "source": "Eneas (Veldeke)",
+            "target": "Herbort von Fritzlar: Liet von Troye",
+            "value": 1
+        },
+        {
+            "source": "Eneas (Veldeke)",
+            "target": "Mai und Beaflor",
+            "value": 1
+        },
+        {
+            "source": "Sibille",
+            "target": "Huge Scheppel",
+            "value": 1
+        },
+        {
+            "source": "Elisabeth von Nassau-Saarbr\u00fccken: Huge Scheppel",
+            "target": "Elisabeth von Nassau-Saarbr\u00fccken: Sibille",
+            "value": 1
+        },
+        {
+            "source": "Malagis",
+            "target": "Reinolt von Montelban",
+            "value": 1
+        },
+        {
+            "source": "Ulrich von Etzenbach: Alexander-Anhang",
+            "target": "Ulrich von Etzenbach: Alexander",
+            "value": 3
+        },
+        {
+            "source": "Prosa-Lancelot",
+            "target": "Lanzelot (Prosaroman) (Ulrich Fuetrer)",
+            "value": 1
+        },
+        {
+            "source": "Prosa-Lancelot",
+            "target": "Tandareis und Flordibel (Der Pleier)",
+            "value": 1
+        }
+    ]
+}

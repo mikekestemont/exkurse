@@ -1,0 +1,4386 @@
+{
+    "nodes": [
+        {
+            "id": "Esclarmonde (en alexandrins)",
+            "group": 0,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Huon de Bordeaux (Version en alexandrins)",
+            "group": 0,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "La suite du Roman du Merlin",
+            "group": 1,
+            "size": 53.89221556886228
+        },
+        {
+            "id": "L'estoire del saint Graal",
+            "group": 1,
+            "size": 47.90419161676647
+        },
+        {
+            "id": "Le roman de Merlin en prose",
+            "group": 1,
+            "size": 59.880239520958085
+        },
+        {
+            "id": "Lancelot en prose",
+            "group": 1,
+            "size": 59.880239520958085
+        },
+        {
+            "id": "La mort le roi Artu",
+            "group": 1,
+            "size": 59.880239520958085
+        },
+        {
+            "id": "La queste del saint Graal",
+            "group": 1,
+            "size": 65.8682634730539
+        },
+        {
+            "id": "Le roman de Balain",
+            "group": 1,
+            "size": 23.952095808383234
+        },
+        {
+            "id": "Le roman de Joseph d'Arimathie en prose",
+            "group": 1,
+            "size": 47.90419161676647
+        },
+        {
+            "id": "Le livre d'Artus",
+            "group": 1,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Perceval de Didot",
+            "group": 1,
+            "size": 17.96407185628743
+        },
+        {
+            "id": "Garin de Monglane (Version en vers)",
+            "group": 2,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Les enfances Garin de Monglane",
+            "group": 2,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Aliscans",
+            "group": 3,
+            "size": 143.71257485029943
+        },
+        {
+            "id": "Le charroi de Nimes",
+            "group": 3,
+            "size": 137.7245508982036
+        },
+        {
+            "id": "La chevalerie Vivien",
+            "group": 3,
+            "size": 137.7245508982036
+        },
+        {
+            "id": "La bataille Loquifer",
+            "group": 3,
+            "size": 137.7245508982036
+        },
+        {
+            "id": "Le couronnement de Louis",
+            "group": 3,
+            "size": 173.65269461077844
+        },
+        {
+            "id": "Les enfances Vivien",
+            "group": 3,
+            "size": 137.7245508982036
+        },
+        {
+            "id": "Le moniage Guillaume (Version longue en vers II)",
+            "group": 3,
+            "size": 131.7365269461078
+        },
+        {
+            "id": "La prise d'Orange",
+            "group": 3,
+            "size": 137.7245508982036
+        },
+        {
+            "id": "Le moniage Rainouart",
+            "group": 3,
+            "size": 137.7245508982036
+        },
+        {
+            "id": "Folque de Candie (Herbert le Duc de Dammartin)",
+            "group": 3,
+            "size": 119.76047904191617
+        },
+        {
+            "id": "Le moniage Guillaume (Version courte en vers I)",
+            "group": 3,
+            "size": 65.8682634730539
+        },
+        {
+            "id": "Les enfances Guillaume",
+            "group": 3,
+            "size": 113.77245508982037
+        },
+        {
+            "id": "Les Narbonnais",
+            "group": 3,
+            "size": 95.80838323353294
+        },
+        {
+            "id": "Girart de Vienne (Bertrand de Bar-sur-Aube)",
+            "group": 3,
+            "size": 119.76047904191617
+        },
+        {
+            "id": "Guibert d'Andrenas",
+            "group": 3,
+            "size": 101.79640718562875
+        },
+        {
+            "id": "Le siege de Barbastre",
+            "group": 3,
+            "size": 107.78443113772455
+        },
+        {
+            "id": "La mort Aymeri de Narbonne",
+            "group": 3,
+            "size": 101.79640718562875
+        },
+        {
+            "id": "Aimeri de Narbonne",
+            "group": 3,
+            "size": 107.78443113772455
+        },
+        {
+            "id": "La prise de Cordres et de Sebille",
+            "group": 3,
+            "size": 71.85628742514972
+        },
+        {
+            "id": "Les enfances Renier",
+            "group": 3,
+            "size": 83.83233532934132
+        },
+        {
+            "id": "Tristan en prose",
+            "group": 4,
+            "size": 101.79640718562875
+        },
+        {
+            "id": "Chanson de Roland",
+            "group": 4,
+            "size": 47.90419161676647
+        },
+        {
+            "id": "Le roman du roi Artus (Rustichello da Pisa)",
+            "group": 4,
+            "size": 35.92814371257486
+        },
+        {
+            "id": "Le roman d'Erec en prose (Version interpol\u00e9e)",
+            "group": 4,
+            "size": 23.952095808383234
+        },
+        {
+            "id": "Guiron le Courtois",
+            "group": 4,
+            "size": 35.92814371257486
+        },
+        {
+            "id": "Auberi le Bourguignon",
+            "group": 4,
+            "size": 35.92814371257486
+        },
+        {
+            "id": "Gaydon",
+            "group": 4,
+            "size": 23.952095808383234
+        },
+        {
+            "id": "Jourdain de Blaye (en d\u00e9casyllabes)",
+            "group": 4,
+            "size": 23.952095808383234
+        },
+        {
+            "id": "Ami et Amile (Version continentale en d\u00e9casyllabes)",
+            "group": 4,
+            "size": 23.952095808383234
+        },
+        {
+            "id": "Yon ou la Vengeance Fromondin",
+            "group": 4,
+            "size": 11.976047904191617
+        },
+        {
+            "id": "Apollonius de Tyr (version en prose I)",
+            "group": 4,
+            "size": 23.952095808383234
+        },
+        {
+            "id": "Les aventures des Bruns (Rustichello da Pisa)",
+            "group": 4,
+            "size": 23.952095808383234
+        },
+        {
+            "id": "Ponthus et Sidoine",
+            "group": 5,
+            "size": 77.84431137724552
+        },
+        {
+            "id": "Naissance du chevalier au cygne (Beatrix)",
+            "group": 5,
+            "size": 89.82035928143712
+        },
+        {
+            "id": "Enfances Godefroi",
+            "group": 5,
+            "size": 47.90419161676647
+        },
+        {
+            "id": "Les ch\u00e9tifs",
+            "group": 5,
+            "size": 41.91616766467066
+        },
+        {
+            "id": "Conqu\u00eate de J\u00e9rusalem",
+            "group": 5,
+            "size": 71.85628742514972
+        },
+        {
+            "id": "La chanson d'Antioche (Version du XIIe si\u00e8cle)",
+            "group": 5,
+            "size": 47.90419161676647
+        },
+        {
+            "id": "Retour du Cornumarant",
+            "group": 5,
+            "size": 89.82035928143712
+        },
+        {
+            "id": "Aspremont",
+            "group": 5,
+            "size": 125.748502994012
+        },
+        {
+            "id": "La belle H\u00e9l\u00e8ne de Constantinople (Version rim\u00e9e)",
+            "group": 5,
+            "size": 11.976047904191617
+        },
+        {
+            "id": "Ogier le Danois (Version en alexandrins)",
+            "group": 5,
+            "size": 47.90419161676647
+        },
+        {
+            "id": "Renaut de Montauban (version en prose)",
+            "group": 5,
+            "size": 47.90419161676647
+        },
+        {
+            "id": "Le roman d'Alexandre en prose",
+            "group": 5,
+            "size": 59.880239520958085
+        },
+        {
+            "id": "Gui de Warwick (Version en prose)",
+            "group": 5,
+            "size": 47.90419161676647
+        },
+        {
+            "id": "Fierabras",
+            "group": 5,
+            "size": 89.82035928143712
+        },
+        {
+            "id": "Continuation de J\u00e9rusalem",
+            "group": 5,
+            "size": 29.940119760479043
+        },
+        {
+            "id": "La destruction de Rome (Version I)",
+            "group": 5,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "L'istoire de la Chastelaine du vergier et de Tristan le chevalier",
+            "group": 5,
+            "size": 11.976047904191617
+        },
+        {
+            "id": "La demoiselle a la mule (Paien de Maisieres)",
+            "group": 5,
+            "size": 11.976047904191617
+        },
+        {
+            "id": "Le livre de Flourimont et de Helaine",
+            "group": 5,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Manekine (Philippe de Remi p\u00e8re)",
+            "group": 6,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Jehan et Blonde (Philippe de Remi p\u00e8re)",
+            "group": 6,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Brun de la Montagne",
+            "group": 7,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Aye d'Avignon",
+            "group": 7,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Gui de Warwick (Version en vers)",
+            "group": 8,
+            "size": 29.940119760479043
+        },
+        {
+            "id": "La chanson des Saisnes (Jean Bodel)",
+            "group": 8,
+            "size": 95.80838323353294
+        },
+        {
+            "id": "Anse\u00efs de Carthage",
+            "group": 8,
+            "size": 125.748502994012
+        },
+        {
+            "id": "Cleomad\u00e9s (Adenet le Roi)",
+            "group": 8,
+            "size": 77.84431137724552
+        },
+        {
+            "id": "Mainet",
+            "group": 8,
+            "size": 41.91616766467066
+        },
+        {
+            "id": "Otinel",
+            "group": 8,
+            "size": 59.880239520958085
+        },
+        {
+            "id": "Berte aus grans pi\u00e9s (Adenet le Roi)",
+            "group": 8,
+            "size": 41.91616766467066
+        },
+        {
+            "id": "Les enfances Ogier (Adenet le Roi)",
+            "group": 8,
+            "size": 59.880239520958085
+        },
+        {
+            "id": "Buevon de Conmarchis (Adenet le Roi)",
+            "group": 8,
+            "size": 23.952095808383234
+        },
+        {
+            "id": "Le roumanz de Claris et Laris",
+            "group": 8,
+            "size": 11.976047904191617
+        },
+        {
+            "id": "Doon de la Roche",
+            "group": 8,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Meliacin (Girart d'Amiens)",
+            "group": 8,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "La chanson de Florence de Rome",
+            "group": 8,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Waldef",
+            "group": 8,
+            "size": 11.976047904191617
+        },
+        {
+            "id": "Beuve de Hantone (Version continentale II)",
+            "group": 8,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Gui de Nanteuil",
+            "group": 9,
+            "size": 41.91616766467066
+        },
+        {
+            "id": "Maugis d'Aigremont (Version en vers)",
+            "group": 9,
+            "size": 41.91616766467066
+        },
+        {
+            "id": "Doon de Mayence",
+            "group": 9,
+            "size": 41.91616766467066
+        },
+        {
+            "id": "Renaut de Montauban",
+            "group": 9,
+            "size": 47.90419161676647
+        },
+        {
+            "id": "Vivien de Monbranc",
+            "group": 9,
+            "size": 35.92814371257486
+        },
+        {
+            "id": "Ogier le Danois (Version fran\u00e7aise en d\u00e9casyllabes)",
+            "group": 9,
+            "size": 47.90419161676647
+        },
+        {
+            "id": "Gaufrey",
+            "group": 9,
+            "size": 35.92814371257486
+        },
+        {
+            "id": "La mort de Maugis",
+            "group": 9,
+            "size": 11.976047904191617
+        },
+        {
+            "id": "Beuve d'Aigremont",
+            "group": 9,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Ciperis de Vignevaux",
+            "group": 9,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Garin le Loherain (Version en d\u00e9casyllabes)",
+            "group": 10,
+            "size": 107.78443113772455
+        },
+        {
+            "id": "Yonnet de Metz (remaniement en vers)",
+            "group": 10,
+            "size": 17.96407185628743
+        },
+        {
+            "id": "Anse\u00efs de Gascogne",
+            "group": 10,
+            "size": 17.96407185628743
+        },
+        {
+            "id": "Hervis de Metz",
+            "group": 10,
+            "size": 65.8682634730539
+        },
+        {
+            "id": "Berinus (Versions en prose)",
+            "group": 10,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Yde et Olive",
+            "group": 10,
+            "size": 53.89221556886228
+        },
+        {
+            "id": "Clarisse et Florent (en d\u00e9casyllabes)",
+            "group": 10,
+            "size": 53.89221556886228
+        },
+        {
+            "id": "Le roman d'Auberon",
+            "group": 10,
+            "size": 53.89221556886228
+        },
+        {
+            "id": "Esclarmonde (en d\u00e9casyllabes)",
+            "group": 10,
+            "size": 53.89221556886228
+        },
+        {
+            "id": "Beuve de Hantone (Version continentale III)",
+            "group": 10,
+            "size": 53.89221556886228
+        },
+        {
+            "id": "Huon de Bordeaux (Version en d\u00e9casyllabes)",
+            "group": 10,
+            "size": 59.880239520958085
+        },
+        {
+            "id": "La chanson de Godin",
+            "group": 10,
+            "size": 53.89221556886228
+        },
+        {
+            "id": "Beuve de Hantone (Version continentale I)",
+            "group": 10,
+            "size": 65.8682634730539
+        },
+        {
+            "id": "Aiol",
+            "group": 10,
+            "size": 11.976047904191617
+        },
+        {
+            "id": "Elie de Saint Gilles",
+            "group": 10,
+            "size": 11.976047904191617
+        },
+        {
+            "id": "Lion de Bourges (Version en alexandrins)",
+            "group": 10,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Perlesvaus",
+            "group": 11,
+            "size": 101.79640718562875
+        },
+        {
+            "id": "Le roman d'Alexandre (Alexandre de Paris)",
+            "group": 11,
+            "size": 179.64071856287424
+        },
+        {
+            "id": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "group": 11,
+            "size": 179.64071856287424
+        },
+        {
+            "id": "Partonopeus de Blois",
+            "group": 11,
+            "size": 113.77245508982037
+        },
+        {
+            "id": "Athis et Prophilias (Alexandre de Paris)",
+            "group": 11,
+            "size": 95.80838323353294
+        },
+        {
+            "id": "Blancandin ou l'Orgueilleuse d'amour (Version en vers)",
+            "group": 11,
+            "size": 71.85628742514972
+        },
+        {
+            "id": "Ille et Galeron (Gautier d'Arras)",
+            "group": 11,
+            "size": 83.83233532934132
+        },
+        {
+            "id": "Floire et Blancheflor (Version I dite aristocratique)",
+            "group": 11,
+            "size": 71.85628742514972
+        },
+        {
+            "id": "Le roman de Thebes",
+            "group": 11,
+            "size": 71.85628742514972
+        },
+        {
+            "id": "Erec et Enide (Chr\u00e9tien de Troyes)",
+            "group": 11,
+            "size": 137.7245508982036
+        },
+        {
+            "id": "Amadas et Ydoine",
+            "group": 11,
+            "size": 59.880239520958085
+        },
+        {
+            "id": "Le roman de Guillaume d'Angleterre (Chretien)",
+            "group": 11,
+            "size": 59.880239520958085
+        },
+        {
+            "id": "Clig\u00e9s (Chr\u00e9tien de Troyes)",
+            "group": 11,
+            "size": 131.7365269461078
+        },
+        {
+            "id": "Florimont (Aimon de Varennes)",
+            "group": 11,
+            "size": 83.83233532934132
+        },
+        {
+            "id": "Le fuerre de Gadres (Eustache)",
+            "group": 11,
+            "size": 35.92814371257486
+        },
+        {
+            "id": "Le roman d'Eneas",
+            "group": 11,
+            "size": 71.85628742514972
+        },
+        {
+            "id": "Le roman de Silence (Heldris de Cornouailles)",
+            "group": 11,
+            "size": 29.940119760479043
+        },
+        {
+            "id": "La vengeance Raguidel (Raoul de Houdenc)",
+            "group": 11,
+            "size": 71.85628742514972
+        },
+        {
+            "id": "Premi\u00e8re continuation du Conte du Graal",
+            "group": 11,
+            "size": 65.8682634730539
+        },
+        {
+            "id": "Deuxi\u00e8me continuation du Conte du Graal (Wauchier de Denain)",
+            "group": 11,
+            "size": 83.83233532934132
+        },
+        {
+            "id": "Yvain ou le Chevalier au lion (Chr\u00e9tien de Troyes)",
+            "group": 11,
+            "size": 119.76047904191617
+        },
+        {
+            "id": "Perceval ou le conte du Graal (Chr\u00e9tien de Troyes)",
+            "group": 11,
+            "size": 77.84431137724552
+        },
+        {
+            "id": "Lancelot ou le Chevalier de la charrette (Chr\u00e9tien de Troyes)",
+            "group": 11,
+            "size": 95.80838323353294
+        },
+        {
+            "id": "Wistasse le Moine",
+            "group": 11,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Meraugis de Portlesguez (Raoul de Houdenc)",
+            "group": 11,
+            "size": 23.952095808383234
+        },
+        {
+            "id": "Durmart le Galois",
+            "group": 11,
+            "size": 23.952095808383234
+        },
+        {
+            "id": "Floire et Blancheflor (Version II dite populaire)",
+            "group": 11,
+            "size": 11.976047904191617
+        },
+        {
+            "id": "Troisi\u00e8me continuation du Conte du Graal (Manessier)",
+            "group": 11,
+            "size": 23.952095808383234
+        },
+        {
+            "id": "Quatri\u00e8me continuation du Conte du Graal",
+            "group": 11,
+            "size": 23.952095808383234
+        },
+        {
+            "id": "Hunbaut (Version originale)",
+            "group": 11,
+            "size": 41.91616766467066
+        },
+        {
+            "id": "L'atre perilleux",
+            "group": 11,
+            "size": 41.91616766467066
+        },
+        {
+            "id": "Le bel inconnu (Renaut de Beaujeu)",
+            "group": 11,
+            "size": 41.91616766467066
+        },
+        {
+            "id": "La folie Tristan de Berne",
+            "group": 11,
+            "size": 11.976047904191617
+        },
+        {
+            "id": "Dou chevalier a l'espee",
+            "group": 11,
+            "size": 11.976047904191617
+        },
+        {
+            "id": "Du chevalier as deus espees",
+            "group": 11,
+            "size": 23.952095808383234
+        },
+        {
+            "id": "Parise la Duchesse",
+            "group": 11,
+            "size": 17.96407185628743
+        },
+        {
+            "id": "Le roman de Laurin",
+            "group": 12,
+            "size": 17.96407185628743
+        },
+        {
+            "id": "Marques de Rome",
+            "group": 12,
+            "size": 23.952095808383234
+        },
+        {
+            "id": "Kanor",
+            "group": 12,
+            "size": 17.96407185628743
+        },
+        {
+            "id": "Eracle (Gautier d'Arras)",
+            "group": 12,
+            "size": 35.92814371257486
+        },
+        {
+            "id": "Le roman de la poire (Tibaut)",
+            "group": 12,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Le roman des fils du roi Constant (Baudouin Butor)",
+            "group": 12,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Sone de Nansay",
+            "group": 12,
+            "size": 17.96407185628743
+        },
+        {
+            "id": "Richars li biaus",
+            "group": 12,
+            "size": 17.96407185628743
+        },
+        {
+            "id": "Le bastard de Bouillon",
+            "group": 13,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Baudouin de Sebourc",
+            "group": 13,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Le roman de Joseph d'Arimathie (Robert de Boron)",
+            "group": 14,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Le roman de Merlin (Robert de Boron)",
+            "group": 14,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Floris et Lyriop\u00e9 (Robert de Blois)",
+            "group": 15,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Beaudous (Robert de Blois)",
+            "group": 15,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Garin le Loherain (Version en prose)",
+            "group": 16,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Girbert de Metz",
+            "group": 16,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Hernaut de Beaulande (Version en prose)",
+            "group": 17,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Hernaut de Beaulande (Version en vers)",
+            "group": 17,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Reinbert",
+            "group": 18,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Cristal et Clarie",
+            "group": 18,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "L'Escoufle (Jean Renart)",
+            "group": 19,
+            "size": 5.9880239520958085
+        },
+        {
+            "id": "Guillaume de Palerne (Version en vers)",
+            "group": 19,
+            "size": 5.9880239520958085
+        }
+    ],
+    "links": [
+        {
+            "source": "La suite du Roman du Merlin",
+            "target": "L'estoire del saint Graal",
+            "value": 28
+        },
+        {
+            "source": "La suite du Roman du Merlin",
+            "target": "Le roman de Merlin en prose",
+            "value": 30
+        },
+        {
+            "source": "La suite du Roman du Merlin",
+            "target": "Lancelot en prose",
+            "value": 11
+        },
+        {
+            "source": "La suite du Roman du Merlin",
+            "target": "La mort le roi Artu",
+            "value": 11
+        },
+        {
+            "source": "La suite du Roman du Merlin",
+            "target": "La queste del saint Graal",
+            "value": 11
+        },
+        {
+            "source": "La suite du Roman du Merlin",
+            "target": "Le roman de Balain",
+            "value": 1
+        },
+        {
+            "source": "La suite du Roman du Merlin",
+            "target": "Le roman de Joseph d'Arimathie en prose",
+            "value": 4
+        },
+        {
+            "source": "La suite du Roman du Merlin",
+            "target": "Perlesvaus",
+            "value": 2
+        },
+        {
+            "source": "La suite du Roman du Merlin",
+            "target": "Le livre d'Artus",
+            "value": 1
+        },
+        {
+            "source": "L'estoire del saint Graal",
+            "target": "Le roman de Merlin en prose",
+            "value": 34
+        },
+        {
+            "source": "L'estoire del saint Graal",
+            "target": "Lancelot en prose",
+            "value": 13
+        },
+        {
+            "source": "L'estoire del saint Graal",
+            "target": "La mort le roi Artu",
+            "value": 14
+        },
+        {
+            "source": "L'estoire del saint Graal",
+            "target": "La queste del saint Graal",
+            "value": 14
+        },
+        {
+            "source": "L'estoire del saint Graal",
+            "target": "Le roman de Balain",
+            "value": 1
+        },
+        {
+            "source": "L'estoire del saint Graal",
+            "target": "Le roman de Joseph d'Arimathie en prose",
+            "value": 8
+        },
+        {
+            "source": "L'estoire del saint Graal",
+            "target": "Perlesvaus",
+            "value": 2
+        },
+        {
+            "source": "Le roman de Merlin en prose",
+            "target": "Lancelot en prose",
+            "value": 14
+        },
+        {
+            "source": "Le roman de Merlin en prose",
+            "target": "La mort le roi Artu",
+            "value": 13
+        },
+        {
+            "source": "Le roman de Merlin en prose",
+            "target": "La queste del saint Graal",
+            "value": 12
+        },
+        {
+            "source": "Le roman de Merlin en prose",
+            "target": "Le roman de Balain",
+            "value": 2
+        },
+        {
+            "source": "Le roman de Merlin en prose",
+            "target": "Le roman de Joseph d'Arimathie en prose",
+            "value": 14
+        },
+        {
+            "source": "Le roman de Merlin en prose",
+            "target": "Perceval de Didot",
+            "value": 2
+        },
+        {
+            "source": "Le roman de Merlin en prose",
+            "target": "Perlesvaus",
+            "value": 2
+        },
+        {
+            "source": "Le roman de Merlin en prose",
+            "target": "Aliscans",
+            "value": 1
+        },
+        {
+            "source": "Lancelot en prose",
+            "target": "La mort le roi Artu",
+            "value": 20
+        },
+        {
+            "source": "Lancelot en prose",
+            "target": "La queste del saint Graal",
+            "value": 26
+        },
+        {
+            "source": "Lancelot en prose",
+            "target": "Tristan en prose",
+            "value": 3
+        },
+        {
+            "source": "Lancelot en prose",
+            "target": "Perlesvaus",
+            "value": 2
+        },
+        {
+            "source": "Lancelot en prose",
+            "target": "Le roman de Joseph d'Arimathie en prose",
+            "value": 1
+        },
+        {
+            "source": "Lancelot en prose",
+            "target": "Ponthus et Sidoine",
+            "value": 1
+        },
+        {
+            "source": "Lancelot en prose",
+            "target": "Chanson de Roland",
+            "value": 1
+        },
+        {
+            "source": "La mort le roi Artu",
+            "target": "La queste del saint Graal",
+            "value": 29
+        },
+        {
+            "source": "La mort le roi Artu",
+            "target": "Le roman de Joseph d'Arimathie en prose",
+            "value": 2
+        },
+        {
+            "source": "La mort le roi Artu",
+            "target": "Tristan en prose",
+            "value": 2
+        },
+        {
+            "source": "La mort le roi Artu",
+            "target": "Perceval de Didot",
+            "value": 1
+        },
+        {
+            "source": "La mort le roi Artu",
+            "target": "Gui de Warwick (Version en vers)",
+            "value": 1
+        },
+        {
+            "source": "La mort le roi Artu",
+            "target": "Perlesvaus",
+            "value": 2
+        },
+        {
+            "source": "La queste del saint Graal",
+            "target": "Le roman de Joseph d'Arimathie en prose",
+            "value": 1
+        },
+        {
+            "source": "La queste del saint Graal",
+            "target": "Tristan en prose",
+            "value": 2
+        },
+        {
+            "source": "La queste del saint Graal",
+            "target": "Perlesvaus",
+            "value": 2
+        },
+        {
+            "source": "La queste del saint Graal",
+            "target": "Le roman du roi Artus (Rustichello da Pisa)",
+            "value": 1
+        },
+        {
+            "source": "La queste del saint Graal",
+            "target": "Le roman d'Erec en prose (Version interpol\u00e9e)",
+            "value": 1
+        },
+        {
+            "source": "La queste del saint Graal",
+            "target": "Guiron le Courtois",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Balain",
+            "target": "Le roman de Joseph d'Arimathie en prose",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Joseph d'Arimathie en prose",
+            "target": "Perceval de Didot",
+            "value": 2
+        },
+        {
+            "source": "Perlesvaus",
+            "target": "Partonopeus de Blois",
+            "value": 1
+        },
+        {
+            "source": "Perlesvaus",
+            "target": "Garin le Loherain (Version en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Perlesvaus",
+            "target": "Deuxi\u00e8me continuation du Conte du Graal (Wauchier de Denain)",
+            "value": 1
+        },
+        {
+            "source": "Perlesvaus",
+            "target": "Durmart le Galois",
+            "value": 1
+        },
+        {
+            "source": "Perlesvaus",
+            "target": "Yvain ou le Chevalier au lion (Chr\u00e9tien de Troyes)",
+            "value": 1
+        },
+        {
+            "source": "Perlesvaus",
+            "target": "Hunbaut (Version originale)",
+            "value": 1
+        },
+        {
+            "source": "Perlesvaus",
+            "target": "Erec et Enide (Chr\u00e9tien de Troyes)",
+            "value": 1
+        },
+        {
+            "source": "Perlesvaus",
+            "target": "La vengeance Raguidel (Raoul de Houdenc)",
+            "value": 1
+        },
+        {
+            "source": "Perlesvaus",
+            "target": "L'atre perilleux",
+            "value": 1
+        },
+        {
+            "source": "Perlesvaus",
+            "target": "Lancelot ou le Chevalier de la charrette (Chr\u00e9tien de Troyes)",
+            "value": 1
+        },
+        {
+            "source": "Perlesvaus",
+            "target": "Le bel inconnu (Renaut de Beaujeu)",
+            "value": 1
+        },
+        {
+            "source": "Aliscans",
+            "target": "Le roman d'Alexandre (Alexandre de Paris)",
+            "value": 1
+        },
+        {
+            "source": "Aliscans",
+            "target": "Folque de Candie (Herbert le Duc de Dammartin)",
+            "value": 3
+        },
+        {
+            "source": "Aliscans",
+            "target": "Partonopeus de Blois",
+            "value": 1
+        },
+        {
+            "source": "Aliscans",
+            "target": "La chevalerie Vivien",
+            "value": 10
+        },
+        {
+            "source": "Aliscans",
+            "target": "La bataille Loquifer",
+            "value": 11
+        },
+        {
+            "source": "Aliscans",
+            "target": "Le moniage Guillaume (Version longue en vers II)",
+            "value": 7
+        },
+        {
+            "source": "Aliscans",
+            "target": "La prise d'Orange",
+            "value": 9
+        },
+        {
+            "source": "Aliscans",
+            "target": "Le moniage Rainouart",
+            "value": 9
+        },
+        {
+            "source": "Aliscans",
+            "target": "Le charroi de Nimes",
+            "value": 8
+        },
+        {
+            "source": "Aliscans",
+            "target": "Le moniage Guillaume (Version courte en vers I)",
+            "value": 2
+        },
+        {
+            "source": "Aliscans",
+            "target": "Les enfances Guillaume",
+            "value": 7
+        },
+        {
+            "source": "Aliscans",
+            "target": "Le couronnement de Louis",
+            "value": 8
+        },
+        {
+            "source": "Aliscans",
+            "target": "Les enfances Vivien",
+            "value": 8
+        },
+        {
+            "source": "Aliscans",
+            "target": "Les Narbonnais",
+            "value": 1
+        },
+        {
+            "source": "Aliscans",
+            "target": "Girart de Vienne (Bertrand de Bar-sur-Aube)",
+            "value": 2
+        },
+        {
+            "source": "Aliscans",
+            "target": "Guibert d'Andrenas",
+            "value": 2
+        },
+        {
+            "source": "Aliscans",
+            "target": "Le siege de Barbastre",
+            "value": 3
+        },
+        {
+            "source": "Aliscans",
+            "target": "La mort Aymeri de Narbonne",
+            "value": 2
+        },
+        {
+            "source": "Aliscans",
+            "target": "Aimeri de Narbonne",
+            "value": 3
+        },
+        {
+            "source": "Aliscans",
+            "target": "La chanson des Saisnes (Jean Bodel)",
+            "value": 1
+        },
+        {
+            "source": "Aliscans",
+            "target": "Anse\u00efs de Carthage",
+            "value": 1
+        },
+        {
+            "source": "Aliscans",
+            "target": "La prise de Cordres et de Sebille",
+            "value": 1
+        },
+        {
+            "source": "Aliscans",
+            "target": "Les enfances Renier",
+            "value": 1
+        },
+        {
+            "source": "Tristan en prose",
+            "target": "Garin le Loherain (Version en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Tristan en prose",
+            "target": "La chanson d'Antioche (Version du XIIe si\u00e8cle)",
+            "value": 1
+        },
+        {
+            "source": "Tristan en prose",
+            "target": "Enfances Godefroi",
+            "value": 1
+        },
+        {
+            "source": "Tristan en prose",
+            "target": "Conqu\u00eate de J\u00e9rusalem",
+            "value": 1
+        },
+        {
+            "source": "Tristan en prose",
+            "target": "Guiron le Courtois",
+            "value": 2
+        },
+        {
+            "source": "Tristan en prose",
+            "target": "Le roman du roi Artus (Rustichello da Pisa)",
+            "value": 2
+        },
+        {
+            "source": "Tristan en prose",
+            "target": "Apollonius de Tyr (version en prose I)",
+            "value": 1
+        },
+        {
+            "source": "Tristan en prose",
+            "target": "Les aventures des Bruns (Rustichello da Pisa)",
+            "value": 1
+        },
+        {
+            "source": "Tristan en prose",
+            "target": "Naissance du chevalier au cygne (Beatrix)",
+            "value": 1
+        },
+        {
+            "source": "Tristan en prose",
+            "target": "Retour du Cornumarant",
+            "value": 1
+        },
+        {
+            "source": "Tristan en prose",
+            "target": "Yon ou la Vengeance Fromondin",
+            "value": 1
+        },
+        {
+            "source": "Tristan en prose",
+            "target": "Le roman d'Erec en prose (Version interpol\u00e9e)",
+            "value": 1
+        },
+        {
+            "source": "Tristan en prose",
+            "target": "Ponthus et Sidoine",
+            "value": 2
+        },
+        {
+            "source": "Tristan en prose",
+            "target": "Chanson de Roland",
+            "value": 1
+        },
+        {
+            "source": "Ponthus et Sidoine",
+            "target": "Aspremont",
+            "value": 1
+        },
+        {
+            "source": "Ponthus et Sidoine",
+            "target": "Fierabras",
+            "value": 1
+        },
+        {
+            "source": "Ponthus et Sidoine",
+            "target": "Retour du Cornumarant",
+            "value": 1
+        },
+        {
+            "source": "Ponthus et Sidoine",
+            "target": "Ogier le Danois (Version en alexandrins)",
+            "value": 1
+        },
+        {
+            "source": "Ponthus et Sidoine",
+            "target": "Renaut de Montauban (version en prose)",
+            "value": 1
+        },
+        {
+            "source": "Ponthus et Sidoine",
+            "target": "Naissance du chevalier au cygne (Beatrix)",
+            "value": 1
+        },
+        {
+            "source": "Ponthus et Sidoine",
+            "target": "Le roman d'Alexandre en prose",
+            "value": 1
+        },
+        {
+            "source": "Ponthus et Sidoine",
+            "target": "Gui de Warwick (Version en prose)",
+            "value": 1
+        },
+        {
+            "source": "Ponthus et Sidoine",
+            "target": "Chanson de Roland",
+            "value": 1
+        },
+        {
+            "source": "Ponthus et Sidoine",
+            "target": "L'istoire de la Chastelaine du vergier et de Tristan le chevalier",
+            "value": 1
+        },
+        {
+            "source": "Ponthus et Sidoine",
+            "target": "La demoiselle a la mule (Paien de Maisieres)",
+            "value": 1
+        },
+        {
+            "source": "Chanson de Roland",
+            "target": "Auberi le Bourguignon",
+            "value": 1
+        },
+        {
+            "source": "Chanson de Roland",
+            "target": "Yvain ou le Chevalier au lion (Chr\u00e9tien de Troyes)",
+            "value": 1
+        },
+        {
+            "source": "Chanson de Roland",
+            "target": "Gaydon",
+            "value": 1
+        },
+        {
+            "source": "Chanson de Roland",
+            "target": "Jourdain de Blaye (en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Chanson de Roland",
+            "target": "Ami et Amile (Version continentale en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Gui de Warwick (Version en vers)",
+            "target": "La chanson de Florence de Rome",
+            "value": 1
+        },
+        {
+            "source": "Gui de Warwick (Version en vers)",
+            "target": "Otinel",
+            "value": 1
+        },
+        {
+            "source": "Gui de Warwick (Version en vers)",
+            "target": "Waldef",
+            "value": 1
+        },
+        {
+            "source": "Gui de Warwick (Version en vers)",
+            "target": "Le roman d'Alexandre en prose",
+            "value": 1
+        },
+        {
+            "source": "Le roman du roi Artus (Rustichello da Pisa)",
+            "target": "Guiron le Courtois",
+            "value": 15
+        },
+        {
+            "source": "Le roman du roi Artus (Rustichello da Pisa)",
+            "target": "Apollonius de Tyr (version en prose I)",
+            "value": 1
+        },
+        {
+            "source": "Le roman du roi Artus (Rustichello da Pisa)",
+            "target": "Les aventures des Bruns (Rustichello da Pisa)",
+            "value": 1
+        },
+        {
+            "source": "Le roman du roi Artus (Rustichello da Pisa)",
+            "target": "Le roman d'Erec en prose (Version interpol\u00e9e)",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Erec en prose (Version interpol\u00e9e)",
+            "target": "Guiron le Courtois",
+            "value": 1
+        },
+        {
+            "source": "Guiron le Courtois",
+            "target": "Apollonius de Tyr (version en prose I)",
+            "value": 1
+        },
+        {
+            "source": "Guiron le Courtois",
+            "target": "Les aventures des Bruns (Rustichello da Pisa)",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre (Alexandre de Paris)",
+            "target": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "value": 2
+        },
+        {
+            "source": "Le roman d'Alexandre (Alexandre de Paris)",
+            "target": "Le charroi de Nimes",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre (Alexandre de Paris)",
+            "target": "Partonopeus de Blois",
+            "value": 2
+        },
+        {
+            "source": "Le roman d'Alexandre (Alexandre de Paris)",
+            "target": "La chevalerie Vivien",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre (Alexandre de Paris)",
+            "target": "La bataille Loquifer",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre (Alexandre de Paris)",
+            "target": "Le couronnement de Louis",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre (Alexandre de Paris)",
+            "target": "Les enfances Vivien",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre (Alexandre de Paris)",
+            "target": "Le moniage Guillaume (Version longue en vers II)",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre (Alexandre de Paris)",
+            "target": "La prise d'Orange",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre (Alexandre de Paris)",
+            "target": "La chanson des Saisnes (Jean Bodel)",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre (Alexandre de Paris)",
+            "target": "Anse\u00efs de Carthage",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre (Alexandre de Paris)",
+            "target": "Le moniage Rainouart",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre (Alexandre de Paris)",
+            "target": "Athis et Prophilias (Alexandre de Paris)",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre (Alexandre de Paris)",
+            "target": "Blancandin ou l'Orgueilleuse d'amour (Version en vers)",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre (Alexandre de Paris)",
+            "target": "Ille et Galeron (Gautier d'Arras)",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre (Alexandre de Paris)",
+            "target": "Floire et Blancheflor (Version I dite aristocratique)",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre (Alexandre de Paris)",
+            "target": "Le roman de Thebes",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre (Alexandre de Paris)",
+            "target": "Erec et Enide (Chr\u00e9tien de Troyes)",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre (Alexandre de Paris)",
+            "target": "Amadas et Ydoine",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre (Alexandre de Paris)",
+            "target": "Le roman de Guillaume d'Angleterre (Chretien)",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre (Alexandre de Paris)",
+            "target": "Clig\u00e9s (Chr\u00e9tien de Troyes)",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre (Alexandre de Paris)",
+            "target": "Naissance du chevalier au cygne (Beatrix)",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre (Alexandre de Paris)",
+            "target": "Enfances Godefroi",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre (Alexandre de Paris)",
+            "target": "Les ch\u00e9tifs",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre (Alexandre de Paris)",
+            "target": "Conqu\u00eate de J\u00e9rusalem",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre (Alexandre de Paris)",
+            "target": "La chanson d'Antioche (Version du XIIe si\u00e8cle)",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre (Alexandre de Paris)",
+            "target": "Retour du Cornumarant",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre (Alexandre de Paris)",
+            "target": "Florimont (Aimon de Varennes)",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre (Alexandre de Paris)",
+            "target": "Le fuerre de Gadres (Eustache)",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "target": "Le roman de Thebes",
+            "value": 3
+        },
+        {
+            "source": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "target": "Le roman d'Eneas",
+            "value": 3
+        },
+        {
+            "source": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "target": "Ille et Galeron (Gautier d'Arras)",
+            "value": 2
+        },
+        {
+            "source": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "target": "Le fuerre de Gadres (Eustache)",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "target": "Le roman de Silence (Heldris de Cornouailles)",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "target": "La vengeance Raguidel (Raoul de Houdenc)",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "target": "Aspremont",
+            "value": 2
+        },
+        {
+            "source": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "target": "La belle H\u00e9l\u00e8ne de Constantinople (Version rim\u00e9e)",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "target": "Conqu\u00eate de J\u00e9rusalem",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "target": "Athis et Prophilias (Alexandre de Paris)",
+            "value": 2
+        },
+        {
+            "source": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "target": "Blancandin ou l'Orgueilleuse d'amour (Version en vers)",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "target": "Floire et Blancheflor (Version I dite aristocratique)",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "target": "Erec et Enide (Chr\u00e9tien de Troyes)",
+            "value": 4
+        },
+        {
+            "source": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "target": "Amadas et Ydoine",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "target": "Le roman de Guillaume d'Angleterre (Chretien)",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "target": "Clig\u00e9s (Chr\u00e9tien de Troyes)",
+            "value": 4
+        },
+        {
+            "source": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "target": "Premi\u00e8re continuation du Conte du Graal",
+            "value": 2
+        },
+        {
+            "source": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "target": "Deuxi\u00e8me continuation du Conte du Graal (Wauchier de Denain)",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "target": "Yvain ou le Chevalier au lion (Chr\u00e9tien de Troyes)",
+            "value": 2
+        },
+        {
+            "source": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "target": "Perceval ou le conte du Graal (Chr\u00e9tien de Troyes)",
+            "value": 2
+        },
+        {
+            "source": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "target": "Lancelot ou le Chevalier de la charrette (Chr\u00e9tien de Troyes)",
+            "value": 2
+        },
+        {
+            "source": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "target": "Wistasse le Moine",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "target": "Cleomad\u00e9s (Adenet le Roi)",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "target": "Le couronnement de Louis",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "target": "Mainet",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "target": "Florimont (Aimon de Varennes)",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "target": "Otinel",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "target": "Anse\u00efs de Carthage",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Troie (Benoit de Sainte-Maure)",
+            "target": "Les ch\u00e9tifs",
+            "value": 1
+        },
+        {
+            "source": "Le charroi de Nimes",
+            "target": "Folque de Candie (Herbert le Duc de Dammartin)",
+            "value": 3
+        },
+        {
+            "source": "Le charroi de Nimes",
+            "target": "Partonopeus de Blois",
+            "value": 1
+        },
+        {
+            "source": "Le charroi de Nimes",
+            "target": "La chevalerie Vivien",
+            "value": 8
+        },
+        {
+            "source": "Le charroi de Nimes",
+            "target": "La bataille Loquifer",
+            "value": 7
+        },
+        {
+            "source": "Le charroi de Nimes",
+            "target": "Le moniage Guillaume (Version longue en vers II)",
+            "value": 6
+        },
+        {
+            "source": "Le charroi de Nimes",
+            "target": "La prise d'Orange",
+            "value": 8
+        },
+        {
+            "source": "Le charroi de Nimes",
+            "target": "Le moniage Rainouart",
+            "value": 7
+        },
+        {
+            "source": "Le charroi de Nimes",
+            "target": "Le moniage Guillaume (Version courte en vers I)",
+            "value": 1
+        },
+        {
+            "source": "Le charroi de Nimes",
+            "target": "Les enfances Guillaume",
+            "value": 7
+        },
+        {
+            "source": "Le charroi de Nimes",
+            "target": "Le couronnement de Louis",
+            "value": 8
+        },
+        {
+            "source": "Le charroi de Nimes",
+            "target": "Les enfances Vivien",
+            "value": 8
+        },
+        {
+            "source": "Le charroi de Nimes",
+            "target": "Les Narbonnais",
+            "value": 1
+        },
+        {
+            "source": "Le charroi de Nimes",
+            "target": "Girart de Vienne (Bertrand de Bar-sur-Aube)",
+            "value": 2
+        },
+        {
+            "source": "Le charroi de Nimes",
+            "target": "Guibert d'Andrenas",
+            "value": 2
+        },
+        {
+            "source": "Le charroi de Nimes",
+            "target": "Le siege de Barbastre",
+            "value": 3
+        },
+        {
+            "source": "Le charroi de Nimes",
+            "target": "La mort Aymeri de Narbonne",
+            "value": 2
+        },
+        {
+            "source": "Le charroi de Nimes",
+            "target": "Aimeri de Narbonne",
+            "value": 3
+        },
+        {
+            "source": "Le charroi de Nimes",
+            "target": "La chanson des Saisnes (Jean Bodel)",
+            "value": 1
+        },
+        {
+            "source": "Le charroi de Nimes",
+            "target": "Anse\u00efs de Carthage",
+            "value": 1
+        },
+        {
+            "source": "Le charroi de Nimes",
+            "target": "La prise de Cordres et de Sebille",
+            "value": 1
+        },
+        {
+            "source": "Le charroi de Nimes",
+            "target": "Les enfances Renier",
+            "value": 1
+        },
+        {
+            "source": "Partonopeus de Blois",
+            "target": "Garin le Loherain (Version en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Partonopeus de Blois",
+            "target": "Deuxi\u00e8me continuation du Conte du Graal (Wauchier de Denain)",
+            "value": 1
+        },
+        {
+            "source": "Partonopeus de Blois",
+            "target": "Durmart le Galois",
+            "value": 1
+        },
+        {
+            "source": "Partonopeus de Blois",
+            "target": "La chevalerie Vivien",
+            "value": 1
+        },
+        {
+            "source": "Partonopeus de Blois",
+            "target": "La bataille Loquifer",
+            "value": 1
+        },
+        {
+            "source": "Partonopeus de Blois",
+            "target": "Le couronnement de Louis",
+            "value": 1
+        },
+        {
+            "source": "Partonopeus de Blois",
+            "target": "Les enfances Vivien",
+            "value": 1
+        },
+        {
+            "source": "Partonopeus de Blois",
+            "target": "Le moniage Guillaume (Version longue en vers II)",
+            "value": 1
+        },
+        {
+            "source": "Partonopeus de Blois",
+            "target": "La prise d'Orange",
+            "value": 1
+        },
+        {
+            "source": "Partonopeus de Blois",
+            "target": "La chanson des Saisnes (Jean Bodel)",
+            "value": 1
+        },
+        {
+            "source": "Partonopeus de Blois",
+            "target": "Anse\u00efs de Carthage",
+            "value": 1
+        },
+        {
+            "source": "Partonopeus de Blois",
+            "target": "Le moniage Rainouart",
+            "value": 1
+        },
+        {
+            "source": "Partonopeus de Blois",
+            "target": "Florimont (Aimon de Varennes)",
+            "value": 1
+        },
+        {
+            "source": "Partonopeus de Blois",
+            "target": "Floire et Blancheflor (Version II dite populaire)",
+            "value": 1
+        },
+        {
+            "source": "Partonopeus de Blois",
+            "target": "Blancandin ou l'Orgueilleuse d'amour (Version en vers)",
+            "value": 1
+        },
+        {
+            "source": "La chevalerie Vivien",
+            "target": "Folque de Candie (Herbert le Duc de Dammartin)",
+            "value": 3
+        },
+        {
+            "source": "La chevalerie Vivien",
+            "target": "La bataille Loquifer",
+            "value": 8
+        },
+        {
+            "source": "La chevalerie Vivien",
+            "target": "Le moniage Guillaume (Version longue en vers II)",
+            "value": 7
+        },
+        {
+            "source": "La chevalerie Vivien",
+            "target": "La prise d'Orange",
+            "value": 9
+        },
+        {
+            "source": "La chevalerie Vivien",
+            "target": "Le moniage Rainouart",
+            "value": 8
+        },
+        {
+            "source": "La chevalerie Vivien",
+            "target": "Le moniage Guillaume (Version courte en vers I)",
+            "value": 1
+        },
+        {
+            "source": "La chevalerie Vivien",
+            "target": "Les enfances Guillaume",
+            "value": 7
+        },
+        {
+            "source": "La chevalerie Vivien",
+            "target": "Le couronnement de Louis",
+            "value": 8
+        },
+        {
+            "source": "La chevalerie Vivien",
+            "target": "Les enfances Vivien",
+            "value": 8
+        },
+        {
+            "source": "La chevalerie Vivien",
+            "target": "Les Narbonnais",
+            "value": 1
+        },
+        {
+            "source": "La chevalerie Vivien",
+            "target": "Girart de Vienne (Bertrand de Bar-sur-Aube)",
+            "value": 2
+        },
+        {
+            "source": "La chevalerie Vivien",
+            "target": "Guibert d'Andrenas",
+            "value": 2
+        },
+        {
+            "source": "La chevalerie Vivien",
+            "target": "Le siege de Barbastre",
+            "value": 3
+        },
+        {
+            "source": "La chevalerie Vivien",
+            "target": "La mort Aymeri de Narbonne",
+            "value": 2
+        },
+        {
+            "source": "La chevalerie Vivien",
+            "target": "Aimeri de Narbonne",
+            "value": 3
+        },
+        {
+            "source": "La chevalerie Vivien",
+            "target": "La chanson des Saisnes (Jean Bodel)",
+            "value": 1
+        },
+        {
+            "source": "La chevalerie Vivien",
+            "target": "Anse\u00efs de Carthage",
+            "value": 1
+        },
+        {
+            "source": "La chevalerie Vivien",
+            "target": "La prise de Cordres et de Sebille",
+            "value": 1
+        },
+        {
+            "source": "La chevalerie Vivien",
+            "target": "Les enfances Renier",
+            "value": 1
+        },
+        {
+            "source": "La bataille Loquifer",
+            "target": "Folque de Candie (Herbert le Duc de Dammartin)",
+            "value": 2
+        },
+        {
+            "source": "La bataille Loquifer",
+            "target": "Le moniage Guillaume (Version longue en vers II)",
+            "value": 6
+        },
+        {
+            "source": "La bataille Loquifer",
+            "target": "La prise d'Orange",
+            "value": 8
+        },
+        {
+            "source": "La bataille Loquifer",
+            "target": "Le moniage Rainouart",
+            "value": 8
+        },
+        {
+            "source": "La bataille Loquifer",
+            "target": "Le moniage Guillaume (Version courte en vers I)",
+            "value": 2
+        },
+        {
+            "source": "La bataille Loquifer",
+            "target": "Les enfances Guillaume",
+            "value": 6
+        },
+        {
+            "source": "La bataille Loquifer",
+            "target": "Le couronnement de Louis",
+            "value": 7
+        },
+        {
+            "source": "La bataille Loquifer",
+            "target": "Les enfances Vivien",
+            "value": 7
+        },
+        {
+            "source": "La bataille Loquifer",
+            "target": "Les Narbonnais",
+            "value": 1
+        },
+        {
+            "source": "La bataille Loquifer",
+            "target": "Girart de Vienne (Bertrand de Bar-sur-Aube)",
+            "value": 2
+        },
+        {
+            "source": "La bataille Loquifer",
+            "target": "Guibert d'Andrenas",
+            "value": 2
+        },
+        {
+            "source": "La bataille Loquifer",
+            "target": "Le siege de Barbastre",
+            "value": 3
+        },
+        {
+            "source": "La bataille Loquifer",
+            "target": "La mort Aymeri de Narbonne",
+            "value": 2
+        },
+        {
+            "source": "La bataille Loquifer",
+            "target": "Aimeri de Narbonne",
+            "value": 3
+        },
+        {
+            "source": "La bataille Loquifer",
+            "target": "La chanson des Saisnes (Jean Bodel)",
+            "value": 1
+        },
+        {
+            "source": "La bataille Loquifer",
+            "target": "Anse\u00efs de Carthage",
+            "value": 1
+        },
+        {
+            "source": "La bataille Loquifer",
+            "target": "La prise de Cordres et de Sebille",
+            "value": 1
+        },
+        {
+            "source": "La bataille Loquifer",
+            "target": "Les enfances Renier",
+            "value": 1
+        },
+        {
+            "source": "Le couronnement de Louis",
+            "target": "Folque de Candie (Herbert le Duc de Dammartin)",
+            "value": 3
+        },
+        {
+            "source": "Le couronnement de Louis",
+            "target": "Aspremont",
+            "value": 1
+        },
+        {
+            "source": "Le couronnement de Louis",
+            "target": "Le moniage Guillaume (Version longue en vers II)",
+            "value": 6
+        },
+        {
+            "source": "Le couronnement de Louis",
+            "target": "La prise d'Orange",
+            "value": 8
+        },
+        {
+            "source": "Le couronnement de Louis",
+            "target": "Le moniage Rainouart",
+            "value": 7
+        },
+        {
+            "source": "Le couronnement de Louis",
+            "target": "Le moniage Guillaume (Version courte en vers I)",
+            "value": 1
+        },
+        {
+            "source": "Le couronnement de Louis",
+            "target": "Les enfances Guillaume",
+            "value": 7
+        },
+        {
+            "source": "Le couronnement de Louis",
+            "target": "Les enfances Vivien",
+            "value": 8
+        },
+        {
+            "source": "Le couronnement de Louis",
+            "target": "Les Narbonnais",
+            "value": 1
+        },
+        {
+            "source": "Le couronnement de Louis",
+            "target": "Girart de Vienne (Bertrand de Bar-sur-Aube)",
+            "value": 2
+        },
+        {
+            "source": "Le couronnement de Louis",
+            "target": "Guibert d'Andrenas",
+            "value": 2
+        },
+        {
+            "source": "Le couronnement de Louis",
+            "target": "Le siege de Barbastre",
+            "value": 3
+        },
+        {
+            "source": "Le couronnement de Louis",
+            "target": "La mort Aymeri de Narbonne",
+            "value": 2
+        },
+        {
+            "source": "Le couronnement de Louis",
+            "target": "Aimeri de Narbonne",
+            "value": 3
+        },
+        {
+            "source": "Le couronnement de Louis",
+            "target": "La chanson des Saisnes (Jean Bodel)",
+            "value": 1
+        },
+        {
+            "source": "Le couronnement de Louis",
+            "target": "Anse\u00efs de Carthage",
+            "value": 2
+        },
+        {
+            "source": "Le couronnement de Louis",
+            "target": "La prise de Cordres et de Sebille",
+            "value": 1
+        },
+        {
+            "source": "Le couronnement de Louis",
+            "target": "Les enfances Renier",
+            "value": 1
+        },
+        {
+            "source": "Le couronnement de Louis",
+            "target": "Cleomad\u00e9s (Adenet le Roi)",
+            "value": 1
+        },
+        {
+            "source": "Le couronnement de Louis",
+            "target": "Mainet",
+            "value": 1
+        },
+        {
+            "source": "Le couronnement de Louis",
+            "target": "Florimont (Aimon de Varennes)",
+            "value": 1
+        },
+        {
+            "source": "Le couronnement de Louis",
+            "target": "Otinel",
+            "value": 1
+        },
+        {
+            "source": "Les enfances Vivien",
+            "target": "Folque de Candie (Herbert le Duc de Dammartin)",
+            "value": 3
+        },
+        {
+            "source": "Les enfances Vivien",
+            "target": "Le moniage Guillaume (Version longue en vers II)",
+            "value": 6
+        },
+        {
+            "source": "Les enfances Vivien",
+            "target": "La prise d'Orange",
+            "value": 8
+        },
+        {
+            "source": "Les enfances Vivien",
+            "target": "Le moniage Rainouart",
+            "value": 7
+        },
+        {
+            "source": "Les enfances Vivien",
+            "target": "Le moniage Guillaume (Version courte en vers I)",
+            "value": 1
+        },
+        {
+            "source": "Les enfances Vivien",
+            "target": "Les enfances Guillaume",
+            "value": 7
+        },
+        {
+            "source": "Les enfances Vivien",
+            "target": "Les Narbonnais",
+            "value": 1
+        },
+        {
+            "source": "Les enfances Vivien",
+            "target": "Girart de Vienne (Bertrand de Bar-sur-Aube)",
+            "value": 2
+        },
+        {
+            "source": "Les enfances Vivien",
+            "target": "Guibert d'Andrenas",
+            "value": 2
+        },
+        {
+            "source": "Les enfances Vivien",
+            "target": "Le siege de Barbastre",
+            "value": 3
+        },
+        {
+            "source": "Les enfances Vivien",
+            "target": "La mort Aymeri de Narbonne",
+            "value": 2
+        },
+        {
+            "source": "Les enfances Vivien",
+            "target": "Aimeri de Narbonne",
+            "value": 3
+        },
+        {
+            "source": "Les enfances Vivien",
+            "target": "La chanson des Saisnes (Jean Bodel)",
+            "value": 1
+        },
+        {
+            "source": "Les enfances Vivien",
+            "target": "Anse\u00efs de Carthage",
+            "value": 1
+        },
+        {
+            "source": "Les enfances Vivien",
+            "target": "La prise de Cordres et de Sebille",
+            "value": 1
+        },
+        {
+            "source": "Les enfances Vivien",
+            "target": "Les enfances Renier",
+            "value": 1
+        },
+        {
+            "source": "Le moniage Guillaume (Version longue en vers II)",
+            "target": "Folque de Candie (Herbert le Duc de Dammartin)",
+            "value": 3
+        },
+        {
+            "source": "Le moniage Guillaume (Version longue en vers II)",
+            "target": "La prise d'Orange",
+            "value": 7
+        },
+        {
+            "source": "Le moniage Guillaume (Version longue en vers II)",
+            "target": "Le moniage Rainouart",
+            "value": 7
+        },
+        {
+            "source": "Le moniage Guillaume (Version longue en vers II)",
+            "target": "Le moniage Guillaume (Version courte en vers I)",
+            "value": 1
+        },
+        {
+            "source": "Le moniage Guillaume (Version longue en vers II)",
+            "target": "Les enfances Guillaume",
+            "value": 5
+        },
+        {
+            "source": "Le moniage Guillaume (Version longue en vers II)",
+            "target": "Les Narbonnais",
+            "value": 1
+        },
+        {
+            "source": "Le moniage Guillaume (Version longue en vers II)",
+            "target": "Girart de Vienne (Bertrand de Bar-sur-Aube)",
+            "value": 1
+        },
+        {
+            "source": "Le moniage Guillaume (Version longue en vers II)",
+            "target": "Guibert d'Andrenas",
+            "value": 2
+        },
+        {
+            "source": "Le moniage Guillaume (Version longue en vers II)",
+            "target": "Le siege de Barbastre",
+            "value": 2
+        },
+        {
+            "source": "Le moniage Guillaume (Version longue en vers II)",
+            "target": "La mort Aymeri de Narbonne",
+            "value": 2
+        },
+        {
+            "source": "Le moniage Guillaume (Version longue en vers II)",
+            "target": "Aimeri de Narbonne",
+            "value": 2
+        },
+        {
+            "source": "Le moniage Guillaume (Version longue en vers II)",
+            "target": "La chanson des Saisnes (Jean Bodel)",
+            "value": 1
+        },
+        {
+            "source": "Le moniage Guillaume (Version longue en vers II)",
+            "target": "Anse\u00efs de Carthage",
+            "value": 1
+        },
+        {
+            "source": "Le moniage Guillaume (Version longue en vers II)",
+            "target": "Les enfances Renier",
+            "value": 1
+        },
+        {
+            "source": "La prise d'Orange",
+            "target": "Folque de Candie (Herbert le Duc de Dammartin)",
+            "value": 3
+        },
+        {
+            "source": "La prise d'Orange",
+            "target": "Le moniage Rainouart",
+            "value": 8
+        },
+        {
+            "source": "La prise d'Orange",
+            "target": "Le moniage Guillaume (Version courte en vers I)",
+            "value": 1
+        },
+        {
+            "source": "La prise d'Orange",
+            "target": "Les enfances Guillaume",
+            "value": 7
+        },
+        {
+            "source": "La prise d'Orange",
+            "target": "Les Narbonnais",
+            "value": 1
+        },
+        {
+            "source": "La prise d'Orange",
+            "target": "Girart de Vienne (Bertrand de Bar-sur-Aube)",
+            "value": 2
+        },
+        {
+            "source": "La prise d'Orange",
+            "target": "Guibert d'Andrenas",
+            "value": 2
+        },
+        {
+            "source": "La prise d'Orange",
+            "target": "Le siege de Barbastre",
+            "value": 3
+        },
+        {
+            "source": "La prise d'Orange",
+            "target": "La mort Aymeri de Narbonne",
+            "value": 2
+        },
+        {
+            "source": "La prise d'Orange",
+            "target": "Aimeri de Narbonne",
+            "value": 3
+        },
+        {
+            "source": "La prise d'Orange",
+            "target": "La chanson des Saisnes (Jean Bodel)",
+            "value": 1
+        },
+        {
+            "source": "La prise d'Orange",
+            "target": "Anse\u00efs de Carthage",
+            "value": 1
+        },
+        {
+            "source": "La prise d'Orange",
+            "target": "La prise de Cordres et de Sebille",
+            "value": 1
+        },
+        {
+            "source": "La prise d'Orange",
+            "target": "Les enfances Renier",
+            "value": 1
+        },
+        {
+            "source": "La chanson des Saisnes (Jean Bodel)",
+            "target": "Le moniage Rainouart",
+            "value": 1
+        },
+        {
+            "source": "La chanson des Saisnes (Jean Bodel)",
+            "target": "Berte aus grans pi\u00e9s (Adenet le Roi)",
+            "value": 1
+        },
+        {
+            "source": "La chanson des Saisnes (Jean Bodel)",
+            "target": "Les enfances Ogier (Adenet le Roi)",
+            "value": 1
+        },
+        {
+            "source": "La chanson des Saisnes (Jean Bodel)",
+            "target": "Cleomad\u00e9s (Adenet le Roi)",
+            "value": 1
+        },
+        {
+            "source": "La chanson des Saisnes (Jean Bodel)",
+            "target": "Anse\u00efs de Carthage",
+            "value": 1
+        },
+        {
+            "source": "La chanson des Saisnes (Jean Bodel)",
+            "target": "Buevon de Conmarchis (Adenet le Roi)",
+            "value": 1
+        },
+        {
+            "source": "Anse\u00efs de Carthage",
+            "target": "Aspremont",
+            "value": 2
+        },
+        {
+            "source": "Anse\u00efs de Carthage",
+            "target": "Le moniage Rainouart",
+            "value": 1
+        },
+        {
+            "source": "Anse\u00efs de Carthage",
+            "target": "Cleomad\u00e9s (Adenet le Roi)",
+            "value": 1
+        },
+        {
+            "source": "Anse\u00efs de Carthage",
+            "target": "Otinel",
+            "value": 1
+        },
+        {
+            "source": "Anse\u00efs de Carthage",
+            "target": "Ogier le Danois (Version fran\u00e7aise en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Anse\u00efs de Carthage",
+            "target": "Athis et Prophilias (Alexandre de Paris)",
+            "value": 1
+        },
+        {
+            "source": "Anse\u00efs de Carthage",
+            "target": "Beuve de Hantone (Version continentale II)",
+            "value": 1
+        },
+        {
+            "source": "Anse\u00efs de Carthage",
+            "target": "Mainet",
+            "value": 1
+        },
+        {
+            "source": "Anse\u00efs de Carthage",
+            "target": "Florimont (Aimon de Varennes)",
+            "value": 1
+        },
+        {
+            "source": "Le moniage Rainouart",
+            "target": "Folque de Candie (Herbert le Duc de Dammartin)",
+            "value": 3
+        },
+        {
+            "source": "Le moniage Rainouart",
+            "target": "Le moniage Guillaume (Version courte en vers I)",
+            "value": 2
+        },
+        {
+            "source": "Le moniage Rainouart",
+            "target": "Les enfances Guillaume",
+            "value": 6
+        },
+        {
+            "source": "Le moniage Rainouart",
+            "target": "Les Narbonnais",
+            "value": 1
+        },
+        {
+            "source": "Le moniage Rainouart",
+            "target": "Girart de Vienne (Bertrand de Bar-sur-Aube)",
+            "value": 2
+        },
+        {
+            "source": "Le moniage Rainouart",
+            "target": "Guibert d'Andrenas",
+            "value": 2
+        },
+        {
+            "source": "Le moniage Rainouart",
+            "target": "Le siege de Barbastre",
+            "value": 3
+        },
+        {
+            "source": "Le moniage Rainouart",
+            "target": "La mort Aymeri de Narbonne",
+            "value": 2
+        },
+        {
+            "source": "Le moniage Rainouart",
+            "target": "Aimeri de Narbonne",
+            "value": 3
+        },
+        {
+            "source": "Le moniage Rainouart",
+            "target": "La prise de Cordres et de Sebille",
+            "value": 1
+        },
+        {
+            "source": "Le moniage Rainouart",
+            "target": "Les enfances Renier",
+            "value": 1
+        },
+        {
+            "source": "Athis et Prophilias (Alexandre de Paris)",
+            "target": "Deuxi\u00e8me continuation du Conte du Graal (Wauchier de Denain)",
+            "value": 1
+        },
+        {
+            "source": "Athis et Prophilias (Alexandre de Paris)",
+            "target": "Perceval ou le conte du Graal (Chr\u00e9tien de Troyes)",
+            "value": 1
+        },
+        {
+            "source": "Athis et Prophilias (Alexandre de Paris)",
+            "target": "Yvain ou le Chevalier au lion (Chr\u00e9tien de Troyes)",
+            "value": 1
+        },
+        {
+            "source": "Athis et Prophilias (Alexandre de Paris)",
+            "target": "Erec et Enide (Chr\u00e9tien de Troyes)",
+            "value": 2
+        },
+        {
+            "source": "Athis et Prophilias (Alexandre de Paris)",
+            "target": "Lancelot ou le Chevalier de la charrette (Chr\u00e9tien de Troyes)",
+            "value": 1
+        },
+        {
+            "source": "Athis et Prophilias (Alexandre de Paris)",
+            "target": "Le roman de Thebes",
+            "value": 1
+        },
+        {
+            "source": "Athis et Prophilias (Alexandre de Paris)",
+            "target": "Premi\u00e8re continuation du Conte du Graal",
+            "value": 1
+        },
+        {
+            "source": "Athis et Prophilias (Alexandre de Paris)",
+            "target": "Ille et Galeron (Gautier d'Arras)",
+            "value": 1
+        },
+        {
+            "source": "Athis et Prophilias (Alexandre de Paris)",
+            "target": "Blancandin ou l'Orgueilleuse d'amour (Version en vers)",
+            "value": 1
+        },
+        {
+            "source": "Athis et Prophilias (Alexandre de Paris)",
+            "target": "Floire et Blancheflor (Version I dite aristocratique)",
+            "value": 1
+        },
+        {
+            "source": "Athis et Prophilias (Alexandre de Paris)",
+            "target": "Amadas et Ydoine",
+            "value": 1
+        },
+        {
+            "source": "Athis et Prophilias (Alexandre de Paris)",
+            "target": "Le roman de Guillaume d'Angleterre (Chretien)",
+            "value": 1
+        },
+        {
+            "source": "Athis et Prophilias (Alexandre de Paris)",
+            "target": "Clig\u00e9s (Chr\u00e9tien de Troyes)",
+            "value": 2
+        },
+        {
+            "source": "Blancandin ou l'Orgueilleuse d'amour (Version en vers)",
+            "target": "Erec et Enide (Chr\u00e9tien de Troyes)",
+            "value": 1
+        },
+        {
+            "source": "Blancandin ou l'Orgueilleuse d'amour (Version en vers)",
+            "target": "Le roman de Thebes",
+            "value": 1
+        },
+        {
+            "source": "Blancandin ou l'Orgueilleuse d'amour (Version en vers)",
+            "target": "Ille et Galeron (Gautier d'Arras)",
+            "value": 1
+        },
+        {
+            "source": "Blancandin ou l'Orgueilleuse d'amour (Version en vers)",
+            "target": "Floire et Blancheflor (Version I dite aristocratique)",
+            "value": 1
+        },
+        {
+            "source": "Blancandin ou l'Orgueilleuse d'amour (Version en vers)",
+            "target": "Amadas et Ydoine",
+            "value": 1
+        },
+        {
+            "source": "Blancandin ou l'Orgueilleuse d'amour (Version en vers)",
+            "target": "Le roman de Guillaume d'Angleterre (Chretien)",
+            "value": 1
+        },
+        {
+            "source": "Blancandin ou l'Orgueilleuse d'amour (Version en vers)",
+            "target": "Clig\u00e9s (Chr\u00e9tien de Troyes)",
+            "value": 1
+        },
+        {
+            "source": "Blancandin ou l'Orgueilleuse d'amour (Version en vers)",
+            "target": "Floire et Blancheflor (Version II dite populaire)",
+            "value": 1
+        },
+        {
+            "source": "Ille et Galeron (Gautier d'Arras)",
+            "target": "Aspremont",
+            "value": 1
+        },
+        {
+            "source": "Ille et Galeron (Gautier d'Arras)",
+            "target": "Erec et Enide (Chr\u00e9tien de Troyes)",
+            "value": 1
+        },
+        {
+            "source": "Ille et Galeron (Gautier d'Arras)",
+            "target": "La vengeance Raguidel (Raoul de Houdenc)",
+            "value": 1
+        },
+        {
+            "source": "Ille et Galeron (Gautier d'Arras)",
+            "target": "Le roman de Thebes",
+            "value": 1
+        },
+        {
+            "source": "Ille et Galeron (Gautier d'Arras)",
+            "target": "Le fuerre de Gadres (Eustache)",
+            "value": 1
+        },
+        {
+            "source": "Ille et Galeron (Gautier d'Arras)",
+            "target": "Le roman de Silence (Heldris de Cornouailles)",
+            "value": 1
+        },
+        {
+            "source": "Ille et Galeron (Gautier d'Arras)",
+            "target": "Floire et Blancheflor (Version I dite aristocratique)",
+            "value": 1
+        },
+        {
+            "source": "Ille et Galeron (Gautier d'Arras)",
+            "target": "Amadas et Ydoine",
+            "value": 1
+        },
+        {
+            "source": "Ille et Galeron (Gautier d'Arras)",
+            "target": "Le roman de Guillaume d'Angleterre (Chretien)",
+            "value": 1
+        },
+        {
+            "source": "Ille et Galeron (Gautier d'Arras)",
+            "target": "Clig\u00e9s (Chr\u00e9tien de Troyes)",
+            "value": 1
+        },
+        {
+            "source": "Floire et Blancheflor (Version I dite aristocratique)",
+            "target": "Berte aus grans pi\u00e9s (Adenet le Roi)",
+            "value": 1
+        },
+        {
+            "source": "Floire et Blancheflor (Version I dite aristocratique)",
+            "target": "Erec et Enide (Chr\u00e9tien de Troyes)",
+            "value": 1
+        },
+        {
+            "source": "Floire et Blancheflor (Version I dite aristocratique)",
+            "target": "Le roman de Thebes",
+            "value": 1
+        },
+        {
+            "source": "Floire et Blancheflor (Version I dite aristocratique)",
+            "target": "Amadas et Ydoine",
+            "value": 1
+        },
+        {
+            "source": "Floire et Blancheflor (Version I dite aristocratique)",
+            "target": "Le roman de Guillaume d'Angleterre (Chretien)",
+            "value": 1
+        },
+        {
+            "source": "Floire et Blancheflor (Version I dite aristocratique)",
+            "target": "Clig\u00e9s (Chr\u00e9tien de Troyes)",
+            "value": 1
+        },
+        {
+            "source": "Floire et Blancheflor (Version I dite aristocratique)",
+            "target": "Le roumanz de Claris et Laris",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Thebes",
+            "target": "Conqu\u00eate de J\u00e9rusalem",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Thebes",
+            "target": "Erec et Enide (Chr\u00e9tien de Troyes)",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Thebes",
+            "target": "Le roman d'Eneas",
+            "value": 3
+        },
+        {
+            "source": "Le roman de Thebes",
+            "target": "Amadas et Ydoine",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Thebes",
+            "target": "Le roman de Guillaume d'Angleterre (Chretien)",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Thebes",
+            "target": "Clig\u00e9s (Chr\u00e9tien de Troyes)",
+            "value": 1
+        },
+        {
+            "source": "Erec et Enide (Chr\u00e9tien de Troyes)",
+            "target": "Deuxi\u00e8me continuation du Conte du Graal (Wauchier de Denain)",
+            "value": 1
+        },
+        {
+            "source": "Erec et Enide (Chr\u00e9tien de Troyes)",
+            "target": "Perceval ou le conte du Graal (Chr\u00e9tien de Troyes)",
+            "value": 2
+        },
+        {
+            "source": "Erec et Enide (Chr\u00e9tien de Troyes)",
+            "target": "Yvain ou le Chevalier au lion (Chr\u00e9tien de Troyes)",
+            "value": 3
+        },
+        {
+            "source": "Erec et Enide (Chr\u00e9tien de Troyes)",
+            "target": "Hunbaut (Version originale)",
+            "value": 1
+        },
+        {
+            "source": "Erec et Enide (Chr\u00e9tien de Troyes)",
+            "target": "La vengeance Raguidel (Raoul de Houdenc)",
+            "value": 1
+        },
+        {
+            "source": "Erec et Enide (Chr\u00e9tien de Troyes)",
+            "target": "L'atre perilleux",
+            "value": 1
+        },
+        {
+            "source": "Erec et Enide (Chr\u00e9tien de Troyes)",
+            "target": "Lancelot ou le Chevalier de la charrette (Chr\u00e9tien de Troyes)",
+            "value": 3
+        },
+        {
+            "source": "Erec et Enide (Chr\u00e9tien de Troyes)",
+            "target": "Le bel inconnu (Renaut de Beaujeu)",
+            "value": 1
+        },
+        {
+            "source": "Erec et Enide (Chr\u00e9tien de Troyes)",
+            "target": "Amadas et Ydoine",
+            "value": 1
+        },
+        {
+            "source": "Erec et Enide (Chr\u00e9tien de Troyes)",
+            "target": "Le roman de Guillaume d'Angleterre (Chretien)",
+            "value": 1
+        },
+        {
+            "source": "Erec et Enide (Chr\u00e9tien de Troyes)",
+            "target": "Clig\u00e9s (Chr\u00e9tien de Troyes)",
+            "value": 4
+        },
+        {
+            "source": "Erec et Enide (Chr\u00e9tien de Troyes)",
+            "target": "Premi\u00e8re continuation du Conte du Graal",
+            "value": 2
+        },
+        {
+            "source": "Erec et Enide (Chr\u00e9tien de Troyes)",
+            "target": "Florimont (Aimon de Varennes)",
+            "value": 1
+        },
+        {
+            "source": "Erec et Enide (Chr\u00e9tien de Troyes)",
+            "target": "Le roman d'Eneas",
+            "value": 1
+        },
+        {
+            "source": "Erec et Enide (Chr\u00e9tien de Troyes)",
+            "target": "Ogier le Danois (Version fran\u00e7aise en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Amadas et Ydoine",
+            "target": "Le roman de Guillaume d'Angleterre (Chretien)",
+            "value": 1
+        },
+        {
+            "source": "Amadas et Ydoine",
+            "target": "Clig\u00e9s (Chr\u00e9tien de Troyes)",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Guillaume d'Angleterre (Chretien)",
+            "target": "Clig\u00e9s (Chr\u00e9tien de Troyes)",
+            "value": 1
+        },
+        {
+            "source": "Clig\u00e9s (Chr\u00e9tien de Troyes)",
+            "target": "Deuxi\u00e8me continuation du Conte du Graal (Wauchier de Denain)",
+            "value": 1
+        },
+        {
+            "source": "Clig\u00e9s (Chr\u00e9tien de Troyes)",
+            "target": "Perceval ou le conte du Graal (Chr\u00e9tien de Troyes)",
+            "value": 2
+        },
+        {
+            "source": "Clig\u00e9s (Chr\u00e9tien de Troyes)",
+            "target": "Yvain ou le Chevalier au lion (Chr\u00e9tien de Troyes)",
+            "value": 3
+        },
+        {
+            "source": "Clig\u00e9s (Chr\u00e9tien de Troyes)",
+            "target": "Lancelot ou le Chevalier de la charrette (Chr\u00e9tien de Troyes)",
+            "value": 3
+        },
+        {
+            "source": "Clig\u00e9s (Chr\u00e9tien de Troyes)",
+            "target": "Premi\u00e8re continuation du Conte du Graal",
+            "value": 2
+        },
+        {
+            "source": "Clig\u00e9s (Chr\u00e9tien de Troyes)",
+            "target": "Le roman d'Eneas",
+            "value": 1
+        },
+        {
+            "source": "Clig\u00e9s (Chr\u00e9tien de Troyes)",
+            "target": "Girart de Vienne (Bertrand de Bar-sur-Aube)",
+            "value": 1
+        },
+        {
+            "source": "Clig\u00e9s (Chr\u00e9tien de Troyes)",
+            "target": "Florimont (Aimon de Varennes)",
+            "value": 1
+        },
+        {
+            "source": "Clig\u00e9s (Chr\u00e9tien de Troyes)",
+            "target": "Parise la Duchesse",
+            "value": 1
+        },
+        {
+            "source": "Clig\u00e9s (Chr\u00e9tien de Troyes)",
+            "target": "Sone de Nansay",
+            "value": 1
+        },
+        {
+            "source": "Clig\u00e9s (Chr\u00e9tien de Troyes)",
+            "target": "Richars li biaus",
+            "value": 1
+        },
+        {
+            "source": "Clig\u00e9s (Chr\u00e9tien de Troyes)",
+            "target": "Eracle (Gautier d'Arras)",
+            "value": 1
+        },
+        {
+            "source": "Naissance du chevalier au cygne (Beatrix)",
+            "target": "Aspremont",
+            "value": 1
+        },
+        {
+            "source": "Naissance du chevalier au cygne (Beatrix)",
+            "target": "La chanson d'Antioche (Version du XIIe si\u00e8cle)",
+            "value": 5
+        },
+        {
+            "source": "Naissance du chevalier au cygne (Beatrix)",
+            "target": "Enfances Godefroi",
+            "value": 5
+        },
+        {
+            "source": "Naissance du chevalier au cygne (Beatrix)",
+            "target": "Conqu\u00eate de J\u00e9rusalem",
+            "value": 5
+        },
+        {
+            "source": "Naissance du chevalier au cygne (Beatrix)",
+            "target": "Fierabras",
+            "value": 1
+        },
+        {
+            "source": "Naissance du chevalier au cygne (Beatrix)",
+            "target": "Les ch\u00e9tifs",
+            "value": 2
+        },
+        {
+            "source": "Naissance du chevalier au cygne (Beatrix)",
+            "target": "Retour du Cornumarant",
+            "value": 6
+        },
+        {
+            "source": "Naissance du chevalier au cygne (Beatrix)",
+            "target": "Ogier le Danois (Version en alexandrins)",
+            "value": 1
+        },
+        {
+            "source": "Naissance du chevalier au cygne (Beatrix)",
+            "target": "Renaut de Montauban (version en prose)",
+            "value": 1
+        },
+        {
+            "source": "Naissance du chevalier au cygne (Beatrix)",
+            "target": "Le roman d'Alexandre en prose",
+            "value": 1
+        },
+        {
+            "source": "Naissance du chevalier au cygne (Beatrix)",
+            "target": "Gui de Warwick (Version en prose)",
+            "value": 1
+        },
+        {
+            "source": "Naissance du chevalier au cygne (Beatrix)",
+            "target": "Continuation de J\u00e9rusalem",
+            "value": 1
+        },
+        {
+            "source": "Enfances Godefroi",
+            "target": "La chanson d'Antioche (Version du XIIe si\u00e8cle)",
+            "value": 9
+        },
+        {
+            "source": "Enfances Godefroi",
+            "target": "Conqu\u00eate de J\u00e9rusalem",
+            "value": 9
+        },
+        {
+            "source": "Enfances Godefroi",
+            "target": "Les ch\u00e9tifs",
+            "value": 4
+        },
+        {
+            "source": "Enfances Godefroi",
+            "target": "Retour du Cornumarant",
+            "value": 8
+        },
+        {
+            "source": "Enfances Godefroi",
+            "target": "Continuation de J\u00e9rusalem",
+            "value": 1
+        },
+        {
+            "source": "Les ch\u00e9tifs",
+            "target": "La chanson d'Antioche (Version du XIIe si\u00e8cle)",
+            "value": 4
+        },
+        {
+            "source": "Les ch\u00e9tifs",
+            "target": "Conqu\u00eate de J\u00e9rusalem",
+            "value": 4
+        },
+        {
+            "source": "Les ch\u00e9tifs",
+            "target": "Retour du Cornumarant",
+            "value": 4
+        },
+        {
+            "source": "Conqu\u00eate de J\u00e9rusalem",
+            "target": "La chanson d'Antioche (Version du XIIe si\u00e8cle)",
+            "value": 9
+        },
+        {
+            "source": "Conqu\u00eate de J\u00e9rusalem",
+            "target": "Retour du Cornumarant",
+            "value": 8
+        },
+        {
+            "source": "Conqu\u00eate de J\u00e9rusalem",
+            "target": "La belle H\u00e9l\u00e8ne de Constantinople (Version rim\u00e9e)",
+            "value": 1
+        },
+        {
+            "source": "Conqu\u00eate de J\u00e9rusalem",
+            "target": "Le roman d'Eneas",
+            "value": 1
+        },
+        {
+            "source": "Conqu\u00eate de J\u00e9rusalem",
+            "target": "Continuation de J\u00e9rusalem",
+            "value": 1
+        },
+        {
+            "source": "La chanson d'Antioche (Version du XIIe si\u00e8cle)",
+            "target": "Retour du Cornumarant",
+            "value": 8
+        },
+        {
+            "source": "La chanson d'Antioche (Version du XIIe si\u00e8cle)",
+            "target": "Continuation de J\u00e9rusalem",
+            "value": 1
+        },
+        {
+            "source": "Retour du Cornumarant",
+            "target": "Aspremont",
+            "value": 1
+        },
+        {
+            "source": "Retour du Cornumarant",
+            "target": "Fierabras",
+            "value": 1
+        },
+        {
+            "source": "Retour du Cornumarant",
+            "target": "Ogier le Danois (Version en alexandrins)",
+            "value": 1
+        },
+        {
+            "source": "Retour du Cornumarant",
+            "target": "Renaut de Montauban (version en prose)",
+            "value": 1
+        },
+        {
+            "source": "Retour du Cornumarant",
+            "target": "Le roman d'Alexandre en prose",
+            "value": 1
+        },
+        {
+            "source": "Retour du Cornumarant",
+            "target": "Gui de Warwick (Version en prose)",
+            "value": 1
+        },
+        {
+            "source": "Retour du Cornumarant",
+            "target": "Continuation de J\u00e9rusalem",
+            "value": 1
+        },
+        {
+            "source": "Florimont (Aimon de Varennes)",
+            "target": "Aspremont",
+            "value": 1
+        },
+        {
+            "source": "Florimont (Aimon de Varennes)",
+            "target": "Yvain ou le Chevalier au lion (Chr\u00e9tien de Troyes)",
+            "value": 1
+        },
+        {
+            "source": "Florimont (Aimon de Varennes)",
+            "target": "Cleomad\u00e9s (Adenet le Roi)",
+            "value": 1
+        },
+        {
+            "source": "Florimont (Aimon de Varennes)",
+            "target": "Otinel",
+            "value": 1
+        },
+        {
+            "source": "Florimont (Aimon de Varennes)",
+            "target": "Girart de Vienne (Bertrand de Bar-sur-Aube)",
+            "value": 1
+        },
+        {
+            "source": "Florimont (Aimon de Varennes)",
+            "target": "Parise la Duchesse",
+            "value": 1
+        },
+        {
+            "source": "Florimont (Aimon de Varennes)",
+            "target": "Mainet",
+            "value": 1
+        },
+        {
+            "source": "Le fuerre de Gadres (Eustache)",
+            "target": "Aspremont",
+            "value": 1
+        },
+        {
+            "source": "Le fuerre de Gadres (Eustache)",
+            "target": "La vengeance Raguidel (Raoul de Houdenc)",
+            "value": 1
+        },
+        {
+            "source": "Le fuerre de Gadres (Eustache)",
+            "target": "Le roman de Silence (Heldris de Cornouailles)",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Eneas",
+            "target": "Perceval ou le conte du Graal (Chr\u00e9tien de Troyes)",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Eneas",
+            "target": "Yvain ou le Chevalier au lion (Chr\u00e9tien de Troyes)",
+            "value": 2
+        },
+        {
+            "source": "Le roman d'Eneas",
+            "target": "Les enfances Ogier (Adenet le Roi)",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Eneas",
+            "target": "Lancelot ou le Chevalier de la charrette (Chr\u00e9tien de Troyes)",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Eneas",
+            "target": "Premi\u00e8re continuation du Conte du Graal",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Eneas",
+            "target": "Fierabras",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Eneas",
+            "target": "Du chevalier as deus espees",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Silence (Heldris de Cornouailles)",
+            "target": "Aspremont",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Silence (Heldris de Cornouailles)",
+            "target": "La vengeance Raguidel (Raoul de Houdenc)",
+            "value": 1
+        },
+        {
+            "source": "La vengeance Raguidel (Raoul de Houdenc)",
+            "target": "Aspremont",
+            "value": 1
+        },
+        {
+            "source": "La vengeance Raguidel (Raoul de Houdenc)",
+            "target": "Yvain ou le Chevalier au lion (Chr\u00e9tien de Troyes)",
+            "value": 1
+        },
+        {
+            "source": "La vengeance Raguidel (Raoul de Houdenc)",
+            "target": "Hunbaut (Version originale)",
+            "value": 1
+        },
+        {
+            "source": "La vengeance Raguidel (Raoul de Houdenc)",
+            "target": "L'atre perilleux",
+            "value": 1
+        },
+        {
+            "source": "La vengeance Raguidel (Raoul de Houdenc)",
+            "target": "Lancelot ou le Chevalier de la charrette (Chr\u00e9tien de Troyes)",
+            "value": 1
+        },
+        {
+            "source": "La vengeance Raguidel (Raoul de Houdenc)",
+            "target": "Le bel inconnu (Renaut de Beaujeu)",
+            "value": 1
+        },
+        {
+            "source": "Aspremont",
+            "target": "Meraugis de Portlesguez (Raoul de Houdenc)",
+            "value": 1
+        },
+        {
+            "source": "Aspremont",
+            "target": "Auberi le Bourguignon",
+            "value": 1
+        },
+        {
+            "source": "Aspremont",
+            "target": "Ogier le Danois (Version en alexandrins)",
+            "value": 1
+        },
+        {
+            "source": "Aspremont",
+            "target": "Renaut de Montauban (version en prose)",
+            "value": 1
+        },
+        {
+            "source": "Aspremont",
+            "target": "Le roman d'Alexandre en prose",
+            "value": 1
+        },
+        {
+            "source": "Aspremont",
+            "target": "Gui de Warwick (Version en prose)",
+            "value": 1
+        },
+        {
+            "source": "Aspremont",
+            "target": "Fierabras",
+            "value": 1
+        },
+        {
+            "source": "Aspremont",
+            "target": "Cleomad\u00e9s (Adenet le Roi)",
+            "value": 1
+        },
+        {
+            "source": "Aspremont",
+            "target": "Mainet",
+            "value": 1
+        },
+        {
+            "source": "Aspremont",
+            "target": "Otinel",
+            "value": 1
+        },
+        {
+            "source": "Premi\u00e8re continuation du Conte du Graal",
+            "target": "Deuxi\u00e8me continuation du Conte du Graal (Wauchier de Denain)",
+            "value": 10
+        },
+        {
+            "source": "Premi\u00e8re continuation du Conte du Graal",
+            "target": "Perceval ou le conte du Graal (Chr\u00e9tien de Troyes)",
+            "value": 11
+        },
+        {
+            "source": "Premi\u00e8re continuation du Conte du Graal",
+            "target": "Yvain ou le Chevalier au lion (Chr\u00e9tien de Troyes)",
+            "value": 2
+        },
+        {
+            "source": "Premi\u00e8re continuation du Conte du Graal",
+            "target": "Lancelot ou le Chevalier de la charrette (Chr\u00e9tien de Troyes)",
+            "value": 2
+        },
+        {
+            "source": "Premi\u00e8re continuation du Conte du Graal",
+            "target": "Troisi\u00e8me continuation du Conte du Graal (Manessier)",
+            "value": 9
+        },
+        {
+            "source": "Premi\u00e8re continuation du Conte du Graal",
+            "target": "Quatri\u00e8me continuation du Conte du Graal",
+            "value": 2
+        },
+        {
+            "source": "Deuxi\u00e8me continuation du Conte du Graal (Wauchier de Denain)",
+            "target": "Garin le Loherain (Version en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Deuxi\u00e8me continuation du Conte du Graal (Wauchier de Denain)",
+            "target": "Durmart le Galois",
+            "value": 1
+        },
+        {
+            "source": "Deuxi\u00e8me continuation du Conte du Graal (Wauchier de Denain)",
+            "target": "Perceval ou le conte du Graal (Chr\u00e9tien de Troyes)",
+            "value": 10
+        },
+        {
+            "source": "Deuxi\u00e8me continuation du Conte du Graal (Wauchier de Denain)",
+            "target": "Troisi\u00e8me continuation du Conte du Graal (Manessier)",
+            "value": 8
+        },
+        {
+            "source": "Deuxi\u00e8me continuation du Conte du Graal (Wauchier de Denain)",
+            "target": "Yvain ou le Chevalier au lion (Chr\u00e9tien de Troyes)",
+            "value": 1
+        },
+        {
+            "source": "Deuxi\u00e8me continuation du Conte du Graal (Wauchier de Denain)",
+            "target": "Lancelot ou le Chevalier de la charrette (Chr\u00e9tien de Troyes)",
+            "value": 1
+        },
+        {
+            "source": "Deuxi\u00e8me continuation du Conte du Graal (Wauchier de Denain)",
+            "target": "Quatri\u00e8me continuation du Conte du Graal",
+            "value": 2
+        },
+        {
+            "source": "Yvain ou le Chevalier au lion (Chr\u00e9tien de Troyes)",
+            "target": "Meraugis de Portlesguez (Raoul de Houdenc)",
+            "value": 1
+        },
+        {
+            "source": "Yvain ou le Chevalier au lion (Chr\u00e9tien de Troyes)",
+            "target": "Perceval ou le conte du Graal (Chr\u00e9tien de Troyes)",
+            "value": 3
+        },
+        {
+            "source": "Yvain ou le Chevalier au lion (Chr\u00e9tien de Troyes)",
+            "target": "Hunbaut (Version originale)",
+            "value": 1
+        },
+        {
+            "source": "Yvain ou le Chevalier au lion (Chr\u00e9tien de Troyes)",
+            "target": "L'atre perilleux",
+            "value": 2
+        },
+        {
+            "source": "Yvain ou le Chevalier au lion (Chr\u00e9tien de Troyes)",
+            "target": "Lancelot ou le Chevalier de la charrette (Chr\u00e9tien de Troyes)",
+            "value": 6
+        },
+        {
+            "source": "Yvain ou le Chevalier au lion (Chr\u00e9tien de Troyes)",
+            "target": "Le bel inconnu (Renaut de Beaujeu)",
+            "value": 1
+        },
+        {
+            "source": "Yvain ou le Chevalier au lion (Chr\u00e9tien de Troyes)",
+            "target": "Du chevalier as deus espees",
+            "value": 1
+        },
+        {
+            "source": "Yvain ou le Chevalier au lion (Chr\u00e9tien de Troyes)",
+            "target": "Fierabras",
+            "value": 1
+        },
+        {
+            "source": "Yvain ou le Chevalier au lion (Chr\u00e9tien de Troyes)",
+            "target": "Les enfances Ogier (Adenet le Roi)",
+            "value": 1
+        },
+        {
+            "source": "Perceval ou le conte du Graal (Chr\u00e9tien de Troyes)",
+            "target": "La folie Tristan de Berne",
+            "value": 1
+        },
+        {
+            "source": "Perceval ou le conte du Graal (Chr\u00e9tien de Troyes)",
+            "target": "Dou chevalier a l'espee",
+            "value": 1
+        },
+        {
+            "source": "Perceval ou le conte du Graal (Chr\u00e9tien de Troyes)",
+            "target": "Troisi\u00e8me continuation du Conte du Graal (Manessier)",
+            "value": 8
+        },
+        {
+            "source": "Perceval ou le conte du Graal (Chr\u00e9tien de Troyes)",
+            "target": "Lancelot ou le Chevalier de la charrette (Chr\u00e9tien de Troyes)",
+            "value": 2
+        },
+        {
+            "source": "Perceval ou le conte du Graal (Chr\u00e9tien de Troyes)",
+            "target": "Quatri\u00e8me continuation du Conte du Graal",
+            "value": 2
+        },
+        {
+            "source": "Lancelot ou le Chevalier de la charrette (Chr\u00e9tien de Troyes)",
+            "target": "Meraugis de Portlesguez (Raoul de Houdenc)",
+            "value": 1
+        },
+        {
+            "source": "Lancelot ou le Chevalier de la charrette (Chr\u00e9tien de Troyes)",
+            "target": "Hunbaut (Version originale)",
+            "value": 1
+        },
+        {
+            "source": "Lancelot ou le Chevalier de la charrette (Chr\u00e9tien de Troyes)",
+            "target": "L'atre perilleux",
+            "value": 1
+        },
+        {
+            "source": "Lancelot ou le Chevalier de la charrette (Chr\u00e9tien de Troyes)",
+            "target": "Le bel inconnu (Renaut de Beaujeu)",
+            "value": 1
+        },
+        {
+            "source": "Lancelot ou le Chevalier de la charrette (Chr\u00e9tien de Troyes)",
+            "target": "Fierabras",
+            "value": 1
+        },
+        {
+            "source": "Cleomad\u00e9s (Adenet le Roi)",
+            "target": "Berte aus grans pi\u00e9s (Adenet le Roi)",
+            "value": 2
+        },
+        {
+            "source": "Cleomad\u00e9s (Adenet le Roi)",
+            "target": "Les enfances Ogier (Adenet le Roi)",
+            "value": 1
+        },
+        {
+            "source": "Cleomad\u00e9s (Adenet le Roi)",
+            "target": "Meliacin (Girart d'Amiens)",
+            "value": 2
+        },
+        {
+            "source": "Cleomad\u00e9s (Adenet le Roi)",
+            "target": "Buevon de Conmarchis (Adenet le Roi)",
+            "value": 1
+        },
+        {
+            "source": "Cleomad\u00e9s (Adenet le Roi)",
+            "target": "Eracle (Gautier d'Arras)",
+            "value": 1
+        },
+        {
+            "source": "Cleomad\u00e9s (Adenet le Roi)",
+            "target": "Mainet",
+            "value": 1
+        },
+        {
+            "source": "Cleomad\u00e9s (Adenet le Roi)",
+            "target": "Otinel",
+            "value": 1
+        },
+        {
+            "source": "Mainet",
+            "target": "Otinel",
+            "value": 1
+        },
+        {
+            "source": "Otinel",
+            "target": "Waldef",
+            "value": 1
+        },
+        {
+            "source": "Otinel",
+            "target": "Fierabras",
+            "value": 1
+        },
+        {
+            "source": "Folque de Candie (Herbert le Duc de Dammartin)",
+            "target": "Gui de Nanteuil",
+            "value": 1
+        },
+        {
+            "source": "Folque de Candie (Herbert le Duc de Dammartin)",
+            "target": "Le moniage Guillaume (Version courte en vers I)",
+            "value": 1
+        },
+        {
+            "source": "Folque de Candie (Herbert le Duc de Dammartin)",
+            "target": "Les enfances Guillaume",
+            "value": 3
+        },
+        {
+            "source": "Folque de Candie (Herbert le Duc de Dammartin)",
+            "target": "Berte aus grans pi\u00e9s (Adenet le Roi)",
+            "value": 2
+        },
+        {
+            "source": "Folque de Candie (Herbert le Duc de Dammartin)",
+            "target": "Les enfances Ogier (Adenet le Roi)",
+            "value": 1
+        },
+        {
+            "source": "Folque de Candie (Herbert le Duc de Dammartin)",
+            "target": "Les Narbonnais",
+            "value": 1
+        },
+        {
+            "source": "Folque de Candie (Herbert le Duc de Dammartin)",
+            "target": "Girart de Vienne (Bertrand de Bar-sur-Aube)",
+            "value": 1
+        },
+        {
+            "source": "Folque de Candie (Herbert le Duc de Dammartin)",
+            "target": "Guibert d'Andrenas",
+            "value": 1
+        },
+        {
+            "source": "Folque de Candie (Herbert le Duc de Dammartin)",
+            "target": "Le siege de Barbastre",
+            "value": 1
+        },
+        {
+            "source": "Folque de Candie (Herbert le Duc de Dammartin)",
+            "target": "La mort Aymeri de Narbonne",
+            "value": 1
+        },
+        {
+            "source": "Folque de Candie (Herbert le Duc de Dammartin)",
+            "target": "Aimeri de Narbonne",
+            "value": 1
+        },
+        {
+            "source": "Gui de Nanteuil",
+            "target": "Maugis d'Aigremont (Version en vers)",
+            "value": 1
+        },
+        {
+            "source": "Gui de Nanteuil",
+            "target": "Doon de Mayence",
+            "value": 1
+        },
+        {
+            "source": "Gui de Nanteuil",
+            "target": "Renaut de Montauban",
+            "value": 1
+        },
+        {
+            "source": "Gui de Nanteuil",
+            "target": "Vivien de Monbranc",
+            "value": 1
+        },
+        {
+            "source": "Gui de Nanteuil",
+            "target": "Ogier le Danois (Version fran\u00e7aise en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Gui de Nanteuil",
+            "target": "Gaufrey",
+            "value": 1
+        },
+        {
+            "source": "Le moniage Guillaume (Version courte en vers I)",
+            "target": "Les enfances Guillaume",
+            "value": 1
+        },
+        {
+            "source": "Les enfances Guillaume",
+            "target": "Les Narbonnais",
+            "value": 1
+        },
+        {
+            "source": "Les enfances Guillaume",
+            "target": "Girart de Vienne (Bertrand de Bar-sur-Aube)",
+            "value": 2
+        },
+        {
+            "source": "Les enfances Guillaume",
+            "target": "Guibert d'Andrenas",
+            "value": 2
+        },
+        {
+            "source": "Les enfances Guillaume",
+            "target": "Le siege de Barbastre",
+            "value": 3
+        },
+        {
+            "source": "Les enfances Guillaume",
+            "target": "La mort Aymeri de Narbonne",
+            "value": 2
+        },
+        {
+            "source": "Les enfances Guillaume",
+            "target": "Aimeri de Narbonne",
+            "value": 3
+        },
+        {
+            "source": "Les enfances Guillaume",
+            "target": "La prise de Cordres et de Sebille",
+            "value": 1
+        },
+        {
+            "source": "Les enfances Guillaume",
+            "target": "Les enfances Renier",
+            "value": 1
+        },
+        {
+            "source": "Berte aus grans pi\u00e9s (Adenet le Roi)",
+            "target": "Les enfances Ogier (Adenet le Roi)",
+            "value": 3
+        },
+        {
+            "source": "Berte aus grans pi\u00e9s (Adenet le Roi)",
+            "target": "Buevon de Conmarchis (Adenet le Roi)",
+            "value": 1
+        },
+        {
+            "source": "Berte aus grans pi\u00e9s (Adenet le Roi)",
+            "target": "Le roumanz de Claris et Laris",
+            "value": 1
+        },
+        {
+            "source": "Les enfances Ogier (Adenet le Roi)",
+            "target": "Doon de la Roche",
+            "value": 1
+        },
+        {
+            "source": "Les enfances Ogier (Adenet le Roi)",
+            "target": "Buevon de Conmarchis (Adenet le Roi)",
+            "value": 1
+        },
+        {
+            "source": "Les enfances Ogier (Adenet le Roi)",
+            "target": "Du chevalier as deus espees",
+            "value": 1
+        },
+        {
+            "source": "Les enfances Ogier (Adenet le Roi)",
+            "target": "Fierabras",
+            "value": 1
+        },
+        {
+            "source": "Les Narbonnais",
+            "target": "Le siege de Barbastre",
+            "value": 3
+        },
+        {
+            "source": "Les Narbonnais",
+            "target": "Girart de Vienne (Bertrand de Bar-sur-Aube)",
+            "value": 2
+        },
+        {
+            "source": "Les Narbonnais",
+            "target": "Guibert d'Andrenas",
+            "value": 2
+        },
+        {
+            "source": "Les Narbonnais",
+            "target": "La mort Aymeri de Narbonne",
+            "value": 2
+        },
+        {
+            "source": "Les Narbonnais",
+            "target": "Aimeri de Narbonne",
+            "value": 2
+        },
+        {
+            "source": "Girart de Vienne (Bertrand de Bar-sur-Aube)",
+            "target": "Le siege de Barbastre",
+            "value": 4
+        },
+        {
+            "source": "Girart de Vienne (Bertrand de Bar-sur-Aube)",
+            "target": "Guibert d'Andrenas",
+            "value": 3
+        },
+        {
+            "source": "Girart de Vienne (Bertrand de Bar-sur-Aube)",
+            "target": "La mort Aymeri de Narbonne",
+            "value": 3
+        },
+        {
+            "source": "Girart de Vienne (Bertrand de Bar-sur-Aube)",
+            "target": "Aimeri de Narbonne",
+            "value": 4
+        },
+        {
+            "source": "Girart de Vienne (Bertrand de Bar-sur-Aube)",
+            "target": "Parise la Duchesse",
+            "value": 1
+        },
+        {
+            "source": "Girart de Vienne (Bertrand de Bar-sur-Aube)",
+            "target": "La prise de Cordres et de Sebille",
+            "value": 1
+        },
+        {
+            "source": "Guibert d'Andrenas",
+            "target": "Le siege de Barbastre",
+            "value": 4
+        },
+        {
+            "source": "Guibert d'Andrenas",
+            "target": "La mort Aymeri de Narbonne",
+            "value": 4
+        },
+        {
+            "source": "Guibert d'Andrenas",
+            "target": "Aimeri de Narbonne",
+            "value": 4
+        },
+        {
+            "source": "Guibert d'Andrenas",
+            "target": "Les enfances Renier",
+            "value": 1
+        },
+        {
+            "source": "Le siege de Barbastre",
+            "target": "La mort Aymeri de Narbonne",
+            "value": 4
+        },
+        {
+            "source": "Le siege de Barbastre",
+            "target": "Aimeri de Narbonne",
+            "value": 5
+        },
+        {
+            "source": "Le siege de Barbastre",
+            "target": "La prise de Cordres et de Sebille",
+            "value": 1
+        },
+        {
+            "source": "Le siege de Barbastre",
+            "target": "Les enfances Renier",
+            "value": 1
+        },
+        {
+            "source": "La mort Aymeri de Narbonne",
+            "target": "Aimeri de Narbonne",
+            "value": 4
+        },
+        {
+            "source": "La mort Aymeri de Narbonne",
+            "target": "Les enfances Renier",
+            "value": 1
+        },
+        {
+            "source": "Aimeri de Narbonne",
+            "target": "La prise de Cordres et de Sebille",
+            "value": 1
+        },
+        {
+            "source": "Aimeri de Narbonne",
+            "target": "Les enfances Renier",
+            "value": 1
+        },
+        {
+            "source": "Maugis d'Aigremont (Version en vers)",
+            "target": "Renaut de Montauban",
+            "value": 3
+        },
+        {
+            "source": "Maugis d'Aigremont (Version en vers)",
+            "target": "Doon de Mayence",
+            "value": 1
+        },
+        {
+            "source": "Maugis d'Aigremont (Version en vers)",
+            "target": "Vivien de Monbranc",
+            "value": 1
+        },
+        {
+            "source": "Maugis d'Aigremont (Version en vers)",
+            "target": "Ogier le Danois (Version fran\u00e7aise en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Maugis d'Aigremont (Version en vers)",
+            "target": "Gaufrey",
+            "value": 1
+        },
+        {
+            "source": "Maugis d'Aigremont (Version en vers)",
+            "target": "La mort de Maugis",
+            "value": 1
+        },
+        {
+            "source": "Doon de Mayence",
+            "target": "Renaut de Montauban",
+            "value": 1
+        },
+        {
+            "source": "Doon de Mayence",
+            "target": "Ogier le Danois (Version fran\u00e7aise en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Doon de Mayence",
+            "target": "Vivien de Monbranc",
+            "value": 1
+        },
+        {
+            "source": "Doon de Mayence",
+            "target": "Gaufrey",
+            "value": 1
+        },
+        {
+            "source": "Doon de Mayence",
+            "target": "Ciperis de Vignevaux",
+            "value": 1
+        },
+        {
+            "source": "Renaut de Montauban",
+            "target": "Vivien de Monbranc",
+            "value": 1
+        },
+        {
+            "source": "Renaut de Montauban",
+            "target": "Ogier le Danois (Version fran\u00e7aise en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Renaut de Montauban",
+            "target": "Gaufrey",
+            "value": 1
+        },
+        {
+            "source": "Renaut de Montauban",
+            "target": "Beuve d'Aigremont",
+            "value": 3
+        },
+        {
+            "source": "Renaut de Montauban",
+            "target": "La mort de Maugis",
+            "value": 1
+        },
+        {
+            "source": "Vivien de Monbranc",
+            "target": "Ogier le Danois (Version fran\u00e7aise en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Vivien de Monbranc",
+            "target": "Gaufrey",
+            "value": 1
+        },
+        {
+            "source": "Ogier le Danois (Version fran\u00e7aise en d\u00e9casyllabes)",
+            "target": "Gaufrey",
+            "value": 1
+        },
+        {
+            "source": "Meraugis de Portlesguez (Raoul de Houdenc)",
+            "target": "Auberi le Bourguignon",
+            "value": 1
+        },
+        {
+            "source": "Auberi le Bourguignon",
+            "target": "Gaydon",
+            "value": 1
+        },
+        {
+            "source": "Auberi le Bourguignon",
+            "target": "Jourdain de Blaye (en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Auberi le Bourguignon",
+            "target": "Ami et Amile (Version continentale en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Gaydon",
+            "target": "Jourdain de Blaye (en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Gaydon",
+            "target": "Ami et Amile (Version continentale en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Jourdain de Blaye (en d\u00e9casyllabes)",
+            "target": "Ami et Amile (Version continentale en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Ogier le Danois (Version en alexandrins)",
+            "target": "Fierabras",
+            "value": 1
+        },
+        {
+            "source": "Ogier le Danois (Version en alexandrins)",
+            "target": "Renaut de Montauban (version en prose)",
+            "value": 1
+        },
+        {
+            "source": "Ogier le Danois (Version en alexandrins)",
+            "target": "Le roman d'Alexandre en prose",
+            "value": 1
+        },
+        {
+            "source": "Ogier le Danois (Version en alexandrins)",
+            "target": "Gui de Warwick (Version en prose)",
+            "value": 1
+        },
+        {
+            "source": "Renaut de Montauban (version en prose)",
+            "target": "Fierabras",
+            "value": 1
+        },
+        {
+            "source": "Renaut de Montauban (version en prose)",
+            "target": "Le roman d'Alexandre en prose",
+            "value": 1
+        },
+        {
+            "source": "Renaut de Montauban (version en prose)",
+            "target": "Gui de Warwick (Version en prose)",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre en prose",
+            "target": "Fierabras",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre en prose",
+            "target": "Gui de Warwick (Version en prose)",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Alexandre en prose",
+            "target": "Le livre de Flourimont et de Helaine",
+            "value": 1
+        },
+        {
+            "source": "Gui de Warwick (Version en prose)",
+            "target": "Fierabras",
+            "value": 1
+        },
+        {
+            "source": "Fierabras",
+            "target": "La destruction de Rome (Version I)",
+            "value": 2
+        },
+        {
+            "source": "Fierabras",
+            "target": "Du chevalier as deus espees",
+            "value": 1
+        },
+        {
+            "source": "Garin le Loherain (Version en d\u00e9casyllabes)",
+            "target": "Durmart le Galois",
+            "value": 1
+        },
+        {
+            "source": "Garin le Loherain (Version en d\u00e9casyllabes)",
+            "target": "Yonnet de Metz (remaniement en vers)",
+            "value": 1
+        },
+        {
+            "source": "Garin le Loherain (Version en d\u00e9casyllabes)",
+            "target": "Anse\u00efs de Gascogne",
+            "value": 2
+        },
+        {
+            "source": "Garin le Loherain (Version en d\u00e9casyllabes)",
+            "target": "Hervis de Metz",
+            "value": 3
+        },
+        {
+            "source": "Garin le Loherain (Version en d\u00e9casyllabes)",
+            "target": "Yon ou la Vengeance Fromondin",
+            "value": 1
+        },
+        {
+            "source": "Garin le Loherain (Version en d\u00e9casyllabes)",
+            "target": "Berinus (Versions en prose)",
+            "value": 1
+        },
+        {
+            "source": "Garin le Loherain (Version en d\u00e9casyllabes)",
+            "target": "Yde et Olive",
+            "value": 1
+        },
+        {
+            "source": "Garin le Loherain (Version en d\u00e9casyllabes)",
+            "target": "Clarisse et Florent (en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Garin le Loherain (Version en d\u00e9casyllabes)",
+            "target": "Le roman d'Auberon",
+            "value": 1
+        },
+        {
+            "source": "Garin le Loherain (Version en d\u00e9casyllabes)",
+            "target": "Esclarmonde (en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Garin le Loherain (Version en d\u00e9casyllabes)",
+            "target": "Beuve de Hantone (Version continentale III)",
+            "value": 1
+        },
+        {
+            "source": "Garin le Loherain (Version en d\u00e9casyllabes)",
+            "target": "Huon de Bordeaux (Version en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Garin le Loherain (Version en d\u00e9casyllabes)",
+            "target": "La chanson de Godin",
+            "value": 1
+        },
+        {
+            "source": "Garin le Loherain (Version en d\u00e9casyllabes)",
+            "target": "Beuve de Hantone (Version continentale I)",
+            "value": 1
+        },
+        {
+            "source": "Yonnet de Metz (remaniement en vers)",
+            "target": "Anse\u00efs de Gascogne",
+            "value": 1
+        },
+        {
+            "source": "Yonnet de Metz (remaniement en vers)",
+            "target": "Hervis de Metz",
+            "value": 1
+        },
+        {
+            "source": "Anse\u00efs de Gascogne",
+            "target": "Hervis de Metz",
+            "value": 1
+        },
+        {
+            "source": "Hervis de Metz",
+            "target": "Beuve de Hantone (Version continentale III)",
+            "value": 1
+        },
+        {
+            "source": "Hervis de Metz",
+            "target": "Beuve de Hantone (Version continentale I)",
+            "value": 1
+        },
+        {
+            "source": "Hervis de Metz",
+            "target": "Yde et Olive",
+            "value": 1
+        },
+        {
+            "source": "Hervis de Metz",
+            "target": "Clarisse et Florent (en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Hervis de Metz",
+            "target": "Le roman d'Auberon",
+            "value": 1
+        },
+        {
+            "source": "Hervis de Metz",
+            "target": "Esclarmonde (en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Hervis de Metz",
+            "target": "Huon de Bordeaux (Version en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Hervis de Metz",
+            "target": "La chanson de Godin",
+            "value": 1
+        },
+        {
+            "source": "Yde et Olive",
+            "target": "Beuve de Hantone (Version continentale III)",
+            "value": 1
+        },
+        {
+            "source": "Yde et Olive",
+            "target": "Beuve de Hantone (Version continentale I)",
+            "value": 1
+        },
+        {
+            "source": "Yde et Olive",
+            "target": "Huon de Bordeaux (Version en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Yde et Olive",
+            "target": "Clarisse et Florent (en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Yde et Olive",
+            "target": "Le roman d'Auberon",
+            "value": 1
+        },
+        {
+            "source": "Yde et Olive",
+            "target": "Esclarmonde (en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Yde et Olive",
+            "target": "La chanson de Godin",
+            "value": 1
+        },
+        {
+            "source": "Clarisse et Florent (en d\u00e9casyllabes)",
+            "target": "Beuve de Hantone (Version continentale III)",
+            "value": 1
+        },
+        {
+            "source": "Clarisse et Florent (en d\u00e9casyllabes)",
+            "target": "Beuve de Hantone (Version continentale I)",
+            "value": 1
+        },
+        {
+            "source": "Clarisse et Florent (en d\u00e9casyllabes)",
+            "target": "Huon de Bordeaux (Version en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Clarisse et Florent (en d\u00e9casyllabes)",
+            "target": "Le roman d'Auberon",
+            "value": 1
+        },
+        {
+            "source": "Clarisse et Florent (en d\u00e9casyllabes)",
+            "target": "Esclarmonde (en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Clarisse et Florent (en d\u00e9casyllabes)",
+            "target": "La chanson de Godin",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Auberon",
+            "target": "Beuve de Hantone (Version continentale III)",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Auberon",
+            "target": "Beuve de Hantone (Version continentale I)",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Auberon",
+            "target": "Huon de Bordeaux (Version en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Auberon",
+            "target": "Esclarmonde (en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Le roman d'Auberon",
+            "target": "La chanson de Godin",
+            "value": 1
+        },
+        {
+            "source": "Esclarmonde (en d\u00e9casyllabes)",
+            "target": "Beuve de Hantone (Version continentale III)",
+            "value": 1
+        },
+        {
+            "source": "Esclarmonde (en d\u00e9casyllabes)",
+            "target": "Beuve de Hantone (Version continentale I)",
+            "value": 1
+        },
+        {
+            "source": "Esclarmonde (en d\u00e9casyllabes)",
+            "target": "Huon de Bordeaux (Version en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Esclarmonde (en d\u00e9casyllabes)",
+            "target": "La chanson de Godin",
+            "value": 1
+        },
+        {
+            "source": "Beuve de Hantone (Version continentale III)",
+            "target": "Beuve de Hantone (Version continentale I)",
+            "value": 2
+        },
+        {
+            "source": "Beuve de Hantone (Version continentale III)",
+            "target": "Huon de Bordeaux (Version en d\u00e9casyllabes)",
+            "value": 1
+        },
+        {
+            "source": "Beuve de Hantone (Version continentale III)",
+            "target": "La chanson de Godin",
+            "value": 1
+        },
+        {
+            "source": "Huon de Bordeaux (Version en d\u00e9casyllabes)",
+            "target": "Beuve de Hantone (Version continentale I)",
+            "value": 1
+        },
+        {
+            "source": "Huon de Bordeaux (Version en d\u00e9casyllabes)",
+            "target": "Lion de Bourges (Version en alexandrins)",
+            "value": 1
+        },
+        {
+            "source": "Huon de Bordeaux (Version en d\u00e9casyllabes)",
+            "target": "La chanson de Godin",
+            "value": 1
+        },
+        {
+            "source": "La chanson de Godin",
+            "target": "Beuve de Hantone (Version continentale I)",
+            "value": 1
+        },
+        {
+            "source": "Beuve de Hantone (Version continentale I)",
+            "target": "Aiol",
+            "value": 1
+        },
+        {
+            "source": "Beuve de Hantone (Version continentale I)",
+            "target": "Elie de Saint Gilles",
+            "value": 1
+        },
+        {
+            "source": "Troisi\u00e8me continuation du Conte du Graal (Manessier)",
+            "target": "Quatri\u00e8me continuation du Conte du Graal",
+            "value": 2
+        },
+        {
+            "source": "Hunbaut (Version originale)",
+            "target": "L'atre perilleux",
+            "value": 1
+        },
+        {
+            "source": "Hunbaut (Version originale)",
+            "target": "Le bel inconnu (Renaut de Beaujeu)",
+            "value": 1
+        },
+        {
+            "source": "L'atre perilleux",
+            "target": "Le bel inconnu (Renaut de Beaujeu)",
+            "value": 1
+        },
+        {
+            "source": "La folie Tristan de Berne",
+            "target": "Dou chevalier a l'espee",
+            "value": 1
+        },
+        {
+            "source": "Apollonius de Tyr (version en prose I)",
+            "target": "Les aventures des Bruns (Rustichello da Pisa)",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Laurin",
+            "target": "Marques de Rome",
+            "value": 9
+        },
+        {
+            "source": "Le roman de Laurin",
+            "target": "Kanor",
+            "value": 4
+        },
+        {
+            "source": "Le roman de Laurin",
+            "target": "Eracle (Gautier d'Arras)",
+            "value": 1
+        },
+        {
+            "source": "Marques de Rome",
+            "target": "Kanor",
+            "value": 4
+        },
+        {
+            "source": "Marques de Rome",
+            "target": "Eracle (Gautier d'Arras)",
+            "value": 1
+        },
+        {
+            "source": "Marques de Rome",
+            "target": "Le roman de la poire (Tibaut)",
+            "value": 1
+        },
+        {
+            "source": "Kanor",
+            "target": "Le roman des fils du roi Constant (Baudouin Butor)",
+            "value": 1
+        },
+        {
+            "source": "Eracle (Gautier d'Arras)",
+            "target": "Sone de Nansay",
+            "value": 1
+        },
+        {
+            "source": "Eracle (Gautier d'Arras)",
+            "target": "Richars li biaus",
+            "value": 1
+        },
+        {
+            "source": "Aiol",
+            "target": "Elie de Saint Gilles",
+            "value": 1
+        },
+        {
+            "source": "L'istoire de la Chastelaine du vergier et de Tristan le chevalier",
+            "target": "La demoiselle a la mule (Paien de Maisieres)",
+            "value": 1
+        },
+        {
+            "source": "Garin le Loherain (Version en prose)",
+            "target": "Girbert de Metz",
+            "value": 1
+        },
+        {
+            "source": "Hernaut de Beaulande (Version en prose)",
+            "target": "Hernaut de Beaulande (Version en vers)",
+            "value": 1
+        },
+        {
+            "source": "Reinbert",
+            "target": "Cristal et Clarie",
+            "value": 1
+        },
+        {
+            "source": "L'Escoufle (Jean Renart)",
+            "target": "Guillaume de Palerne (Version en vers)",
+            "value": 1
+        },
+        {
+            "source": "Sone de Nansay",
+            "target": "Richars li biaus",
+            "value": 1
+        },
+        {
+            "source": "Esclarmonde (en alexandrins)",
+            "target": "Huon de Bordeaux (Version en alexandrins)",
+            "value": 1
+        },
+        {
+            "source": "Garin de Monglane (Version en vers)",
+            "target": "Les enfances Garin de Monglane",
+            "value": 1
+        },
+        {
+            "source": "Manekine (Philippe de Remi p\u00e8re)",
+            "target": "Jehan et Blonde (Philippe de Remi p\u00e8re)",
+            "value": 1
+        },
+        {
+            "source": "Brun de la Montagne",
+            "target": "Aye d'Avignon",
+            "value": 1
+        },
+        {
+            "source": "Le bastard de Bouillon",
+            "target": "Baudouin de Sebourc",
+            "value": 1
+        },
+        {
+            "source": "Le roman de Joseph d'Arimathie (Robert de Boron)",
+            "target": "Le roman de Merlin (Robert de Boron)",
+            "value": 1
+        },
+        {
+            "source": "Floris et Lyriop\u00e9 (Robert de Blois)",
+            "target": "Beaudous (Robert de Blois)",
+            "value": 1
+        }
+    ]
+}
